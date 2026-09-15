@@ -93,5 +93,6 @@
   ],
   "logoLockup": "assets/images/fanlab-lockup.png",
   "favicon": "assets/images/fanlab-favicon.png",
-  "logoIncludesWordmark": true
+  "logoIncludesWordmark": true,
+  "ogImage": "assets/images/og-image.png"
 }
