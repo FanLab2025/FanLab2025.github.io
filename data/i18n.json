@@ -92,8 +92,8 @@
     },
     "pi": {
       "title": {
-        "en": "Prof. Yuchuan Fan · FAN Lab",
-        "zh": "范豫川教授 · FAN Lab"
+        "en": "Dr. Yuchuan Fan · FAN Lab",
+        "zh": "范豫川博士 · FAN Lab"
       },
       "description": {
         "en": "Principal Investigator of FAN Lab, Prof. Yuchuan Fan.",
@@ -447,8 +447,8 @@
       "zh": "社交链接"
     },
     "piName": {
-      "en": "Prof. Yuchuan Fan",
-      "zh": "范豫川教授"
+      "en": "Dr. Yuchuan Fan",
+      "zh": "范豫川博士"
     }
   },
   "status": {
