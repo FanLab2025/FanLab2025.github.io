@@ -335,12 +335,15 @@
     },
     {
       "id": "jiang-rui",
-      "group": "assistant",
+      "group": "researcher",
       "name": {
         "en": "Dr. Jiang Rui",
         "zh": "江睿博士"
       },
-      "role": null,
+      "role": {
+        "en": "Lecturer",
+        "zh": "讲师"
+      },
       "email": null,
       "portrait": null,
       "monogram": "JR",
