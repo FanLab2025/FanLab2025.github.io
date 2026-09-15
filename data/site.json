@@ -3,7 +3,7 @@
     "en": "FAN Lab",
     "zh": "FAN Lab"
   },
-  "logo": "assets/images/fan-lab-mark.png",
+  "logo": "assets/images/fan-lab-logo-nav.png",
   "tagline": {
     "en": "Agricultural and environmental systems research",
     "zh": "农业与环境系统交叉研究"
@@ -91,8 +91,8 @@
       "url": "#"
     }
   ],
-  "logoLockup": "assets/images/fan-lab-lockup.svg",
+  "logoLockup": "assets/images/fan-lab-logo.png",
   "logoLegacy": "assets/images/fan-lab-logo.png",
-  "favicon": "assets/images/fan-lab-favicon.svg",
+  "favicon": "assets/images/fan-lab-favicon.png",
   "logoSvg": "assets/images/fan-lab-mark.svg"
 }

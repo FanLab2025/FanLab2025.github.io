@@ -248,8 +248,9 @@ ul, ol {
 }
 
 .brand__logo {
-  height: 2rem; /* ~32px — compact mark for navbar */
-  width: 2rem;
+  height: 2.5rem;
+  width: auto;
+  max-width: 7.5rem;
   display: block;
   flex-shrink: 0;
   object-fit: contain;
@@ -1324,9 +1325,9 @@ ul, ol {
 }
 
 .logo-mark--about {
-  height: 3.75rem;
+  height: 7rem;
   width: auto;
-  max-width: min(18rem, 100%);
+  max-width: min(16rem, 100%);
   margin: 0 0 1.75rem;
   object-fit: contain;
 }
@@ -1338,18 +1339,18 @@ ul, ol {
 }
 
 .logo-mark--pi {
-  height: 3.25rem;
+  height: 5.5rem;
   width: auto;
-  max-width: min(16rem, 100%);
+  max-width: min(14rem, 100%);
   margin-bottom: var(--space-4);
   object-fit: contain;
 }
 
 .footer__brand-lockup {
   display: block;
-  height: 2.75rem;
+  height: 4.25rem;
   width: auto;
-  max-width: 12rem;
+  max-width: 11rem;
   margin-bottom: var(--space-3);
   object-fit: contain;
 }
