@@ -395,7 +395,7 @@
     if (titleEl) titleEl.textContent = pick(about.title);
     container.innerHTML =
       '<div class="about-logo-wrap">' +
-      '<img class="logo-mark logo-mark--about" src="assets/images/fan-lab-logo.png" alt="FAN Lab" />' +
+      '<img class="logo-mark logo-mark--about" src="assets/images/fanlab-lockup-v2.png" alt="FAN Lab" />' +
       "</div>" +
       paras +
       '<section class="approach-section" aria-labelledby="approach-heading">' +
@@ -435,7 +435,7 @@
       "</div>" +
       "</div>" +
       "<div>" +
-      '<img class="logo-mark logo-mark--pi" src="assets/images/fan-lab-logo.png" alt="FAN Lab" />' +
+      '<img class="logo-mark logo-mark--pi" src="assets/images/fanlab-lockup-v2.png" alt="FAN Lab" />' +
       '<p class="member-header__role">' +
       esc(t("piPage.eyebrow")) +
       "</p>" +

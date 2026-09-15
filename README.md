@@ -52,7 +52,7 @@ Then open [http://localhost:8080](http://localhost:8080).
 
 ### Logo
 
-Official mark: `assets/images/fan-lab-logo.png` (also used as favicon). Do not recolour, crop, or stretch.
+Official mark: `assets/images/fanlab-lockup-v2.png` (also used as favicon). Do not recolour, crop, or stretch.
 
 ---
 
