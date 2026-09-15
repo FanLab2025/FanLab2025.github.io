@@ -1,7 +1,7 @@
 {
   "labName": {
-    "en": "FAN Lab",
-    "zh": "FAN Lab"
+    "en": "FanLab",
+    "zh": "FanLab"
   },
   "logo": "assets/images/fan-lab-logo-nav.png",
   "tagline": {
@@ -91,8 +91,9 @@
       "url": "#"
     }
   ],
-  "logoLockup": "assets/images/fan-lab-logo.png",
+  "logoLockup": "assets/images/fan-lab-lockup.png",
   "logoLegacy": "assets/images/fan-lab-logo.png",
   "favicon": "assets/images/fan-lab-favicon.png",
-  "logoSvg": "assets/images/fan-lab-mark.svg"
+  "logoSvg": "assets/images/fan-lab-mark.svg",
+  "logoIncludesWordmark": true
 }

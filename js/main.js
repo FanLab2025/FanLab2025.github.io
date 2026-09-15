@@ -167,9 +167,11 @@
           '" />'
         : "") +
       '<span class="brand__text">' +
-      '<span class="brand__lab">' +
-      escapeHtml(pick(site.labName)) +
-      "</span>" +
+      (site.logoIncludesWordmark
+        ? ""
+        : '<span class="brand__lab">' +
+          escapeHtml(pick(site.labName)) +
+          "</span>") +
       '<span class="brand__inst">' +
       escapeHtml(pick(site.institutionShort || site.institution)) +
       "</span>" +
