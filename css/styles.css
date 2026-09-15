@@ -1514,3 +1514,166 @@ ul, ol {
     height: 5.25rem;
   }
 }
+
+/* ==========================================================================
+   Responsive refinements — phone / tablet / desktop
+   ========================================================================== */
+
+html,
+body {
+  overflow-x: clip;
+}
+
+/* Tablet and below */
+@media (max-width: 1120px) {
+  .site-header__inner {
+    min-height: 3.75rem;
+    gap: var(--space-3);
+  }
+
+  .brand__logo {
+    height: 2.35rem;
+    max-width: 9.5rem;
+  }
+
+  .brand__inst {
+    max-width: 11rem;
+    white-space: normal;
+    line-height: 1.25;
+  }
+
+  .page-header h1 {
+    font-size: var(--fs-xl);
+  }
+}
+
+/* Phones */
+@media (max-width: 640px) {
+  :root {
+    --header-h: 3.5rem;
+    --space-8: 3rem;
+    --space-9: 4rem;
+  }
+
+  .container {
+    width: min(100% - 1.25rem, var(--max-w));
+  }
+
+  .site-header__inner {
+    gap: var(--space-2);
+  }
+
+  .brand__logo {
+    height: 2.1rem;
+    max-width: 7.75rem;
+  }
+
+  .brand__inst {
+    display: none; /* avoid crowding; full name remains in footer */
+  }
+
+  .main {
+    padding-block: var(--space-6) var(--space-7);
+  }
+
+  .hero {
+    padding-block: var(--space-6);
+    gap: var(--space-5);
+  }
+
+  .hero__actions {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: var(--space-3);
+  }
+
+  .hero__actions .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .section {
+    padding-block: var(--space-6);
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-4);
+  }
+
+  .card-grid--pi {
+    grid-template-columns: 1fr;
+  }
+
+  .logo-mark--about,
+  .logo-mark--pi {
+    height: auto;
+    max-height: 4.5rem;
+    max-width: min(14rem, 100%);
+  }
+
+  .about-logo-wrap {
+    justify-content: flex-start;
+  }
+
+  .member-layout,
+  .pi-layout {
+    gap: var(--space-5);
+  }
+
+  .keywords,
+  .chip-row {
+    gap: var(--space-2);
+  }
+
+  .pub-list,
+  .publication-list {
+    font-size: var(--fs-sm);
+  }
+
+  .site-footer {
+    padding-block: var(--space-6) var(--space-5);
+  }
+
+  .footer__brand-lockup {
+    height: 3.25rem;
+    max-width: 10rem;
+  }
+
+  .nav-toggle {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .site-nav a {
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .lang-toggle {
+    justify-content: flex-start;
+  }
+}
+
+/* Very small phones */
+@media (max-width: 380px) {
+  .brand__logo {
+    max-width: 6.5rem;
+  }
+
+  .hero__panel {
+    padding: var(--space-4);
+  }
+}
+
+/* Large desktops — keep measure readable */
+@media (min-width: 1400px) {
+  .prose,
+  .about-body,
+  .member-bio,
+  .pi-intro {
+    max-width: 42rem;
+  }
+}
