@@ -1,0 +1,69 @@
+{
+  "themes": [
+    {
+      "id": "climate-smart-soil-health",
+      "icon": "soil",
+      "title": {
+        "en": "Climate-smart agroecosystems and soil health",
+        "zh": "气候智慧农业与土壤健康"
+      },
+      "description": {
+        "en": "We study how agricultural management, climate variability, and soil processes interact to shape soil health and agroecosystem function. This theme links field observation with process analysis to inform climate-smart practices that support nutrient cycling, soil function, and long-term land productivity.",
+        "zh": "围绕农业生产管理、气候变率与土壤过程之间的相互作用，研究土壤健康与农田生态系统功能。本方向结合田间观测与过程分析，为气候智慧农业实践、养分循环、土壤功能及土地生产力的长期维持提供科学依据。"
+      },
+      "relatedPublicationIds": []
+    },
+    {
+      "id": "water-nutrient-nps",
+      "icon": "water",
+      "title": {
+        "en": "Agricultural water, nutrient management and non-point source pollution",
+        "zh": "农田水肥管理与农业面源污染防控"
+      },
+      "description": {
+        "en": "This theme addresses water and nutrient flows in farmland systems and the pathways of agricultural non-point source pollution. We examine soil–water–crop interactions and management measures that can reduce nutrient losses while supporting crop production.",
+        "zh": "关注农田系统中的水分与养分过程，以及农业面源污染的发生路径。通过分析土壤—水分—作物互作及管理措施，探讨在保障作物生产的同时减少养分流失的可能途径。"
+      },
+      "relatedPublicationIds": []
+    },
+    {
+      "id": "karst-groundwater-restoration",
+      "icon": "karst",
+      "title": {
+        "en": "Karst agroecosystems, groundwater protection and ecological restoration",
+        "zh": "岩溶农业生态系统、地下水保护与生态修复"
+      },
+      "description": {
+        "en": "In karst agricultural landscapes, thin soils, rapid hydrological connectivity, and groundwater vulnerability pose distinctive environmental challenges. Research in this theme examines agroecosystem processes, groundwater protection, and ecological restoration in these settings.",
+        "zh": "岩溶农业景观中土层浅薄、水文连通快、地下水易受扰动，环境问题具有特殊性。本方向研究此类区域的农业生态系统过程、地下水保护与生态修复。"
+      },
+      "relatedPublicationIds": []
+    },
+    {
+      "id": "digital-sensing",
+      "icon": "sensing",
+      "title": {
+        "en": "Digital agriculture, remote sensing and intelligent environmental sensing",
+        "zh": "数字农业、遥感与智能环境感知"
+      },
+      "description": {
+        "en": "We explore remote sensing, intelligent sensing, and related digital tools for observing agricultural and environmental conditions. The emphasis is on obtaining reliable spatial and temporal information that can be interpreted alongside field measurements and process knowledge.",
+        "zh": "探索遥感、智能感知及相关数字方法在农业与环境观测中的应用，重点是获取可与田间实测和过程认知相互印证的时空信息。"
+      },
+      "relatedPublicationIds": []
+    },
+    {
+      "id": "env-data-modelling",
+      "icon": "model",
+      "title": {
+        "en": "Environmental data science, modelling and decision support",
+        "zh": "环境数据科学、模型模拟与决策支持"
+      },
+      "description": {
+        "en": "This theme develops and applies environmental models and data-science methods, including interpretable approaches, to analyse observations and support management-relevant interpretation. The aim is decision support grounded in process understanding rather than opaque prediction alone.",
+        "zh": "发展并应用环境模型与数据科学方法（包括可解释途径），用于分析观测数据并为管理相关解释提供支持，强调以过程认知为基础的决策支持，而非单纯的不透明预测。"
+      },
+      "relatedPublicationIds": []
+    }
+  ]
+}

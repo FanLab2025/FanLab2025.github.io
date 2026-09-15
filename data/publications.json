@@ -1,0 +1,73 @@
+{
+  "publications": [
+    {
+      "id": "pub-placeholder-1",
+      "title": {
+        "en": "[ADD PUBLICATION]",
+        "zh": "[待补充成果]"
+      },
+      "authors": {
+        "en": "[ADD AUTHORS]",
+        "zh": "[待补充作者]"
+      },
+      "venue": {
+        "en": "[ADD VENUE]",
+        "zh": "[待补充期刊或出版社]"
+      },
+      "year": {
+        "en": "[ADD YEAR]",
+        "zh": "[待补充年份]"
+      },
+      "doi": null,
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": true
+    },
+    {
+      "id": "pub-placeholder-2",
+      "title": {
+        "en": "[ADD PUBLICATION]",
+        "zh": "[待补充成果]"
+      },
+      "authors": {
+        "en": "[ADD AUTHORS]",
+        "zh": "[待补充作者]"
+      },
+      "venue": {
+        "en": "[ADD VENUE]",
+        "zh": "[待补充期刊或出版社]"
+      },
+      "year": {
+        "en": "[ADD YEAR]",
+        "zh": "[待补充年份]"
+      },
+      "doi": null,
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": true
+    },
+    {
+      "id": "pub-placeholder-3",
+      "title": {
+        "en": "[ADD PUBLICATION]",
+        "zh": "[待补充成果]"
+      },
+      "authors": {
+        "en": "[ADD AUTHORS]",
+        "zh": "[待补充作者]"
+      },
+      "venue": {
+        "en": "[ADD VENUE]",
+        "zh": "[待补充期刊或出版社]"
+      },
+      "year": {
+        "en": "[ADD YEAR]",
+        "zh": "[待补充年份]"
+      },
+      "doi": null,
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": true
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="FAN Lab — agricultural and environmental systems research at the College of Jiyang, Zhejiang A&F University, led by Prof. Yuchuan Fan." />
+  <title>FAN Lab · College of Jiyang, Zhejiang A&F University</title>
+  <script>
+    (function () {
+      try {
+        var l = localStorage.getItem("lab-lang");
+        if (l !== "zh" && l !== "en") {
+          var n = (navigator.language || "en").toLowerCase();
+          l = n.indexOf("zh") === 0 ? "zh" : "en";
+        }
+        document.documentElement.lang = l === "zh" ? "zh-CN" : "en";
+        document.documentElement.setAttribute("data-lang", l);
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="icon" href="assets/images/fan-lab-favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skipToContent">Skip to content</a>
+
+  <header class="site-header" id="site-header" role="banner"></header>
+
+  <main id="main" class="main">
+    <div class="container">
+      <section class="hero" aria-labelledby="hero-title">
+        <div>
+          <span class="hero__eyebrow" data-i18n="home.eyebrow">Research laboratory</span>
+          <h1 id="hero-title" data-bind-lab-name>FAN Lab</h1>
+          <p class="hero__tagline" id="home-tagline">Agricultural and environmental systems research</p>
+          <div class="btn-row">
+            <a class="btn btn--primary" href="about.html" data-i18n="home.learnMore">Learn more →</a>
+            <a class="btn btn--ghost" href="research.html" data-i18n="home.exploreResearch">Explore research</a>
+          </div>
+          <div class="hero__meta" style="margin-top: 1.5rem;">
+            <span id="home-institution">College of Jiyang, Zhejiang A&amp;F University</span>
+          </div>
+        </div>
+        <aside class="hero__panel" aria-label="Laboratory focus">
+          <p class="hero__panel-label" data-i18n="home.focusLabel">Focus areas</p>
+          <p class="hero__panel-title" data-i18n="home.focusTitle">Agriculture, climate and ecological management</p>
+          <p class="hero__panel-text" data-i18n="home.focusText">Climate-smart agroecosystems · Soil health · Agricultural water and nutrients · Karst landscapes · Digital sensing · Environmental modelling</p>
+        </aside>
+      </section>
+
+      <section class="section" aria-labelledby="about-heading">
+        <div class="section__header">
+          <span class="section__eyebrow" data-i18n="home.aboutEyebrow">Laboratory</span>
+          <h2 id="about-heading" data-i18n="home.aboutHeading">About FAN Lab</h2>
+        </div>
+        <div id="home-about" class="about-prose">
+          <p class="status-msg" data-i18n="status.loading">Loading…</p>
+        </div>
+        <p style="margin-top: 1.25rem;">
+          <a href="about.html" data-i18n="home.learnMore">Learn more →</a>
+        </p>
+      </section>
+
+      <section class="section" aria-labelledby="themes-heading">
+        <div class="section__header">
+          <span class="section__eyebrow" data-i18n="home.researchEyebrow">Research</span>
+          <h2 id="themes-heading" data-i18n="home.themesHeading">Research themes</h2>
+          <p class="section__lede" data-i18n="home.themesLede">Five core directions. Open a theme to read a short description of the questions and methods.</p>
+        </div>
+        <div class="home-highlights" id="home-themes">
+          <p class="status-msg" data-i18n="status.themesLoading">Loading themes…</p>
+        </div>
+        <p style="margin-top: 1.5rem;">
+          <a href="research.html" data-i18n="home.viewAllThemes">View all research themes →</a>
+        </p>
+      </section>
+
+      <section class="section" aria-labelledby="pi-heading">
+        <div class="section__header">
+          <span class="section__eyebrow" data-i18n="home.leadership">Leadership</span>
+          <h2 id="pi-heading" data-i18n="home.piHeading">Principal Investigator</h2>
+        </div>
+        <div id="home-pi">
+          <p class="status-msg" data-i18n="status.loading">Loading…</p>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="people-heading">
+        <div class="section__header">
+          <span class="section__eyebrow" data-i18n="home.peopleEyebrow">Group</span>
+          <h2 id="people-heading" data-i18n="home.peopleHeading">People</h2>
+          <p class="section__lede" data-i18n="home.peopleLede">Researchers, students, and research assistants in the laboratory.</p>
+        </div>
+        <div id="home-people">
+          <p class="status-msg" data-i18n="status.loading">Loading…</p>
+        </div>
+        <p style="margin-top: 1.5rem;">
+          <a href="people.html" data-i18n="home.viewPeople">View all people →</a>
+        </p>
+      </section>
+
+      <section class="section" aria-labelledby="join-heading">
+        <div class="section__header">
+          <span class="section__eyebrow" data-i18n="home.joinEyebrow">Join us</span>
+          <h2 id="join-heading" data-i18n="home.joinHeading">Join us</h2>
+        </div>
+        <div class="join-card">
+          <p data-i18n="home.joinLede">Opportunities for students and visitors, together with contact details for joining the group, will be updated here. This site does not currently list open positions.</p>
+        </div>
+        <div class="btn-row" style="margin-top: 1.5rem;">
+          <a class="btn btn--ghost" href="contact.html" data-i18n="home.contactBtn">Contact</a>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="site-footer" role="contentinfo"></footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/render.js"></script>
+  <script>
+    (function () {
+      var cache = null;
+      function draw() {
+        if (!cache) return;
+        LabRender.renderHome(cache);
+      }
+      document.addEventListener("DOMContentLoaded", function () {
+        LabSite.loadSite()
+          .then(function () {
+            return LabRender.loadAll();
+          })
+          .then(function (data) {
+            cache = data;
+            draw();
+          })
+          .catch(function (err) {
+            console.error(err);
+            var el = document.getElementById("home-about");
+            if (el) {
+              el.innerHTML = '<p class="status-msg status-msg--error">' +
+                LabSite.escapeHtml(LabSite.t("status.loadFail")) +
+                "</p>";
+            }
+          });
+      });
+      window.addEventListener("lab-lang-change", draw);
+    })();
+  </script>
+</body>
+</html>

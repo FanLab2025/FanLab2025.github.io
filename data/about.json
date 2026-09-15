@@ -1,0 +1,46 @@
+{
+  "title": {
+    "en": "About FAN Lab",
+    "zh": "FAN Lab 实验室简介"
+  },
+  "paragraphs": [
+    {
+      "en": "FAN Lab is an interdisciplinary research group based at the College of Jiyang, Zhejiang A&F University. We study agricultural and environmental systems in the context of climate change, resource constraints, and the transition towards more sustainable agriculture.",
+      "zh": "FAN Lab 是依托浙江农林大学暨阳学院开展农业与环境系统研究的交叉型科研团队。实验室面向气候变化、资源约束与农业绿色转型等现实问题，围绕农田生态系统中水、土壤、作物与管理措施之间的耦合关系，开展观测、试验、模型与数据分析研究。"
+    },
+    {
+      "en": "Our work examines the coupled relationships among water, soil, crops, and management practices across scales, from field plots and soil profiles to catchments and landscapes. We combine environmental observations, experiments, process understanding, modelling, and data analysis to address questions that matter for both agricultural production and ecological management.",
+      "zh": "实验室关注从土壤剖面到流域与景观尺度的环境过程，强调将科学问题与农业生产和生态治理需求相结合。研究既重视田间观测、长期数据和过程认知，也探索遥感、智能感知、机器学习及大数据方法在农业环境研究中的合理应用。"
+    },
+    {
+      "en": "The lab aims to develop interpretable evidence and practical methods for climate-smart agriculture, soil-health improvement, agricultural non-point source pollution control, water and nutrient management, ecological restoration, and regional sustainability.",
+      "zh": "我们的目标是为气候智慧农业、土壤健康提升、农业面源污染治理、农田水分与养分管理、生态修复及区域可持续发展提供可解释的科学依据和方法支持。"
+    }
+  ],
+  "approachTitle": {
+    "en": "Research approach",
+    "zh": "研究方式"
+  },
+  "approach": [
+    {
+      "icon": "field",
+      "en": "Field observation and environmental monitoring",
+      "zh": "田间观测与环境监测"
+    },
+    {
+      "icon": "process",
+      "en": "Soil–water–crop process analysis",
+      "zh": "土壤—水分—作物过程分析"
+    },
+    {
+      "icon": "sensing",
+      "en": "Remote sensing and intelligent agricultural sensing",
+      "zh": "遥感与农业智能感知"
+    },
+    {
+      "icon": "model",
+      "en": "Environmental modelling and interpretable data science",
+      "zh": "环境模型与可解释数据科学"
+    }
+  ]
+}

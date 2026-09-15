@@ -1,0 +1,492 @@
+{
+  "skipToContent": {
+    "en": "Skip to content",
+    "zh": "跳至主要内容"
+  },
+  "openMenu": {
+    "en": "Open menu",
+    "zh": "打开菜单"
+  },
+  "closeMenu": {
+    "en": "Close menu",
+    "zh": "关闭菜单"
+  },
+  "language": {
+    "en": "Language",
+    "zh": "语言"
+  },
+  "portraitAlt": {
+    "en": "Portrait of {name}",
+    "zh": "{name}照片"
+  },
+  "pages": {
+    "home": {
+      "title": {
+        "en": "FAN Lab · College of Jiyang, Zhejiang A&F University",
+        "zh": "FAN Lab · 浙江农林大学暨阳学院"
+      },
+      "description": {
+        "en": "FAN Lab — agricultural and environmental systems research at the College of Jiyang, Zhejiang A&F University, led by Prof. Yuchuan Fan.",
+        "zh": "FAN Lab — 浙江农林大学暨阳学院农业与环境系统研究实验室，负责人范豫川教授。"
+      }
+    },
+    "people": {
+      "title": {
+        "en": "People · FAN Lab",
+        "zh": "团队成员 · FAN Lab"
+      },
+      "description": {
+        "en": "People of FAN Lab at the College of Jiyang, Zhejiang A&F University.",
+        "zh": "浙江农林大学暨阳学院 FAN Lab 团队成员。"
+      }
+    },
+    "member": {
+      "title": {
+        "en": "{name} · {labName}",
+        "zh": "{name} · {labName}"
+      },
+      "description": {
+        "en": "Member profile · FAN Lab",
+        "zh": "成员简介 · FAN Lab"
+      }
+    },
+    "research": {
+      "title": {
+        "en": "Research · FAN Lab",
+        "zh": "研究方向 · FAN Lab"
+      },
+      "description": {
+        "en": "Research themes of FAN Lab at the College of Jiyang, Zhejiang A&F University.",
+        "zh": "浙江农林大学暨阳学院 FAN Lab 研究方向。"
+      }
+    },
+    "publications": {
+      "title": {
+        "en": "Publications · FAN Lab",
+        "zh": "论文成果 · FAN Lab"
+      },
+      "description": {
+        "en": "Publications of FAN Lab at the College of Jiyang, Zhejiang A&F University.",
+        "zh": "浙江农林大学暨阳学院 FAN Lab 论文成果。"
+      }
+    },
+    "contact": {
+      "title": {
+        "en": "Contact · FAN Lab",
+        "zh": "联系我们 · FAN Lab"
+      },
+      "description": {
+        "en": "Contact FAN Lab at the College of Jiyang, Zhejiang A&F University.",
+        "zh": "联系浙江农林大学暨阳学院 FAN Lab。"
+      }
+    },
+    "about": {
+      "title": {
+        "en": "About FAN Lab",
+        "zh": "FAN Lab 实验室简介"
+      },
+      "description": {
+        "en": "About FAN Lab at the College of Jiyang, Zhejiang A&F University.",
+        "zh": "浙江农林大学暨阳学院 FAN Lab 实验室简介。"
+      }
+    },
+    "pi": {
+      "title": {
+        "en": "Prof. Yuchuan Fan · FAN Lab",
+        "zh": "范豫川教授 · FAN Lab"
+      },
+      "description": {
+        "en": "Principal Investigator of FAN Lab, Prof. Yuchuan Fan.",
+        "zh": "FAN Lab 负责人范豫川教授。"
+      }
+    }
+  },
+  "nav": {
+    "home": {
+      "en": "Home",
+      "zh": "首页"
+    },
+    "about": {
+      "en": "About",
+      "zh": "实验室简介"
+    },
+    "research": {
+      "en": "Research",
+      "zh": "研究方向"
+    },
+    "people": {
+      "en": "People",
+      "zh": "团队成员"
+    },
+    "pi": {
+      "en": "PI",
+      "zh": "导师主页"
+    },
+    "publications": {
+      "en": "Publications",
+      "zh": "论文成果"
+    },
+    "contact": {
+      "en": "Contact",
+      "zh": "联系我们"
+    }
+  },
+  "footer": {
+    "explore": {
+      "en": "Explore",
+      "zh": "导航"
+    },
+    "connect": {
+      "en": "Connect",
+      "zh": "链接"
+    }
+  },
+  "home": {
+    "eyebrow": {
+      "en": "Research laboratory",
+      "zh": "研究实验室"
+    },
+    "exploreResearch": {
+      "en": "Explore research",
+      "zh": "研究方向"
+    },
+    "meetGroup": {
+      "en": "Meet the group",
+      "zh": "认识团队"
+    },
+    "focusLabel": {
+      "en": "Focus areas",
+      "zh": "研究重点"
+    },
+    "focusTitle": {
+      "en": "Agriculture, climate and ecological management",
+      "zh": "农业、气候与生态治理"
+    },
+    "focusText": {
+      "en": "Climate-smart agroecosystems · Soil health · Agricultural water and nutrients · Karst landscapes · Digital sensing · Environmental modelling",
+      "zh": "气候智慧农业 · 土壤健康 · 农田水肥 · 岩溶景观 · 数字感知 · 环境模型"
+    },
+    "leadership": {
+      "en": "Leadership",
+      "zh": "实验室负责人"
+    },
+    "piHeading": {
+      "en": "Principal Investigator",
+      "zh": "导师主页"
+    },
+    "researchEyebrow": {
+      "en": "Research",
+      "zh": "研究"
+    },
+    "themesHeading": {
+      "en": "Research themes",
+      "zh": "研究方向"
+    },
+    "themesLede": {
+      "en": "Five core directions. Open a theme to read a short description of the questions and methods.",
+      "zh": "五个核心方向。点击条目可阅读该方向关注的问题与方法。"
+    },
+    "viewAllThemes": {
+      "en": "View all research themes →",
+      "zh": "查看全部研究方向 →"
+    },
+    "connectEyebrow": {
+      "en": "Connect",
+      "zh": "联系"
+    },
+    "workWithUs": {
+      "en": "Contact",
+      "zh": "联系我们"
+    },
+    "workLede": {
+      "en": "For collaboration, visits, or inquiries, please use the contact page. Some details remain placeholders until they are confirmed.",
+      "zh": "合作、访问或咨询请通过联系页面来函。部分联系方式待确认后补充。"
+    },
+    "contactBtn": {
+      "en": "Contact",
+      "zh": "联系我们"
+    },
+    "pubsBtn": {
+      "en": "Publications",
+      "zh": "论文成果"
+    },
+    "aboutEyebrow": {
+      "en": "Laboratory",
+      "zh": "实验室"
+    },
+    "aboutHeading": {
+      "en": "About FAN Lab",
+      "zh": "实验室简介"
+    },
+    "learnMore": {
+      "en": "Learn more →",
+      "zh": "了解实验室 →"
+    },
+    "viewPi": {
+      "en": "View PI profile →",
+      "zh": "查看导师主页 →"
+    },
+    "peopleEyebrow": {
+      "en": "Group",
+      "zh": "团队"
+    },
+    "peopleHeading": {
+      "en": "People",
+      "zh": "团队成员"
+    },
+    "peopleLede": {
+      "en": "Researchers, students, and research assistants in the laboratory.",
+      "zh": "实验室科研人员、研究生与科研助理。"
+    },
+    "viewPeople": {
+      "en": "View all people →",
+      "zh": "查看全部成员 →"
+    },
+    "joinEyebrow": {
+      "en": "Join us",
+      "zh": "加入我们"
+    },
+    "joinHeading": {
+      "en": "Join us",
+      "zh": "加入我们"
+    },
+    "joinLede": {
+      "en": "Opportunities for students and visitors, together with contact details for joining the group, will be updated here. This site does not currently list open positions.",
+      "zh": "学生培养、访问交流及加入课题组的联系方式将随后更新。本站点目前不发布在招岗位信息。"
+    }
+  },
+  "people": {
+    "eyebrow": {
+      "en": "Directory",
+      "zh": "名录"
+    },
+    "title": {
+      "en": "People",
+      "zh": "团队成员"
+    },
+    "lede": {
+      "en": "Members of the laboratory. Open a card to view a public profile where one is available.",
+      "zh": "实验室成员名录。已公开个人简介的成员可点击卡片查看详情。"
+    },
+    "empty": {
+      "en": "No members listed in this group yet.",
+      "zh": "本组暂无成员信息。"
+    },
+    "emptyAll": {
+      "en": "No members listed yet.",
+      "zh": "暂无成员信息。"
+    },
+    "loading": {
+      "en": "Loading people…",
+      "zh": "正在加载团队信息…"
+    },
+    "placeholderNote": {
+      "en": "Profile coming soon",
+      "zh": "成员信息待补充"
+    }
+  },
+  "groups": {
+    "pi": {
+      "en": "Principal Investigator",
+      "zh": "负责人"
+    },
+    "researcher": {
+      "en": "Researchers and Postdoctoral Researchers",
+      "zh": "科研人员与博士后"
+    },
+    "graduate": {
+      "en": "Graduate Students",
+      "zh": "研究生"
+    },
+    "assistant": {
+      "en": "Research Assistants",
+      "zh": "科研助理"
+    }
+  },
+  "member": {
+    "email": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "education": {
+      "en": "Education",
+      "zh": "教育经历"
+    },
+    "biography": {
+      "en": "Biography",
+      "zh": "个人简介"
+    },
+    "interests": {
+      "en": "Research interests",
+      "zh": "研究兴趣"
+    },
+    "publications": {
+      "en": "Selected publications",
+      "zh": "代表成果"
+    },
+    "backToPeople": {
+      "en": "← Back to People",
+      "zh": "← 返回团队"
+    },
+    "notFound": {
+      "en": "Member not found.",
+      "zh": "未找到该成员。"
+    },
+    "notFoundDetail": {
+      "en": "No profile matches this address.",
+      "zh": "没有与该链接匹配的个人主页。"
+    },
+    "noProfile": {
+      "en": "This member does not have a public profile page.",
+      "zh": "该成员暂无公开个人主页。"
+    },
+    "returnToPeople": {
+      "en": "Return to People",
+      "zh": "返回团队"
+    },
+    "loading": {
+      "en": "Loading profile…",
+      "zh": "正在加载简介…"
+    }
+  },
+  "research": {
+    "eyebrow": {
+      "en": "Themes",
+      "zh": "方向"
+    },
+    "title": {
+      "en": "Research",
+      "zh": "研究方向"
+    },
+    "lede": {
+      "en": "Core research directions of FAN Lab. The notes below outline scientific questions and methods; they do not report completed projects or claimed results.",
+      "zh": "FAN Lab 的主要研究方向。下列简介说明当前关注的科学问题与方法路径，不表述已完成项目或特定成果。"
+    },
+    "empty": {
+      "en": "No research themes listed yet.",
+      "zh": "暂无研究方向。"
+    },
+    "loading": {
+      "en": "Loading research themes…",
+      "zh": "正在加载研究方向…"
+    }
+  },
+  "publicationsPage": {
+    "eyebrow": {
+      "en": "Scholarship",
+      "zh": "学术成果"
+    },
+    "title": {
+      "en": "Publications",
+      "zh": "研究成果"
+    },
+    "lede": {
+      "en": "Selected publications will be listed here. Placeholder rows illustrate the layout — replace them in data/publications.json. No invented titles or citations are included.",
+      "zh": "代表性成果将在此列出。占位条目仅用于展示版式，请在 data/publications.json 中替换为正式文献，请勿编造题名或引文。"
+    },
+    "empty": {
+      "en": "No publications listed yet. Add entries in data/publications.json.",
+      "zh": "暂无成果条目。请在 data/publications.json 中添加。"
+    },
+    "placeholder": {
+      "en": "Placeholder entry",
+      "zh": "待补充条目"
+    },
+    "loading": {
+      "en": "Loading publications…",
+      "zh": "正在加载成果列表…"
+    }
+  },
+  "contact": {
+    "eyebrow": {
+      "en": "Get in touch",
+      "zh": "联系我们"
+    },
+    "title": {
+      "en": "Contact",
+      "zh": "联系方式"
+    },
+    "lede": {
+      "en": "Reach the laboratory using the details below. Fields marked with placeholder labels should be updated in data/site.json.",
+      "zh": "可通过以下方式联系实验室。仍为占位的字段请在 data/site.json 中更新。"
+    },
+    "laboratory": {
+      "en": "Laboratory",
+      "zh": "实验室"
+    },
+    "institution": {
+      "en": "Institution",
+      "zh": "所属单位"
+    },
+    "email": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "phone": {
+      "en": "Phone",
+      "zh": "电话"
+    },
+    "office": {
+      "en": "Office",
+      "zh": "办公室"
+    },
+    "address": {
+      "en": "Address",
+      "zh": "地址"
+    },
+    "university": {
+      "en": "Institution",
+      "zh": "所属单位"
+    },
+    "pi": {
+      "en": "Principal Investigator",
+      "zh": "负责人"
+    },
+    "social": {
+      "en": "Social",
+      "zh": "社交链接"
+    },
+    "piName": {
+      "en": "Prof. Yuchuan Fan",
+      "zh": "范豫川教授"
+    }
+  },
+  "status": {
+    "loading": {
+      "en": "Loading…",
+      "zh": "加载中…"
+    },
+    "loadFail": {
+      "en": "Unable to load data. Serve over HTTP (see README).",
+      "zh": "无法加载数据。请通过 HTTP 访问本站点（详见 README）。"
+    },
+    "themesLoading": {
+      "en": "Loading themes…",
+      "zh": "正在加载研究方向…"
+    }
+  },
+  "aboutPage": {
+    "eyebrow": {
+      "en": "Laboratory",
+      "zh": "实验室"
+    },
+    "loading": {
+      "en": "Loading…",
+      "zh": "加载中…"
+    }
+  },
+  "piPage": {
+    "eyebrow": {
+      "en": "Principal Investigator",
+      "zh": "导师主页"
+    },
+    "email": {
+      "en": "Email",
+      "zh": "电子邮箱"
+    },
+    "loading": {
+      "en": "Loading profile…",
+      "zh": "正在加载简介…"
+    }
+  }
+}

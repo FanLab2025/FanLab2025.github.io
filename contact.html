@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Contact FAN Lab at the College of Jiyang, Zhejiang A&F University." />
+  <title>Contact · FAN Lab</title>
+  <script>
+    (function () {
+      try {
+        var l = localStorage.getItem("lab-lang");
+        if (l !== "zh" && l !== "en") {
+          var n = (navigator.language || "en").toLowerCase();
+          l = n.indexOf("zh") === 0 ? "zh" : "en";
+        }
+        document.documentElement.lang = l === "zh" ? "zh-CN" : "en";
+        document.documentElement.setAttribute("data-lang", l);
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="icon" href="assets/images/fan-lab-favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skipToContent">Skip to content</a>
+
+  <header class="site-header" id="site-header" role="banner"></header>
+
+  <main id="main" class="main">
+    <div class="container">
+      <header class="page-intro">
+        <span class="section__eyebrow" data-i18n="contact.eyebrow">Get in touch</span>
+        <h1 data-i18n="contact.title">Contact</h1>
+        <p data-i18n="contact.lede">Reach the laboratory using the details below. Fields marked with placeholder labels should be updated in <code>data/site.json</code>.</p>
+      </header>
+
+      <div class="contact-grid">
+        <article class="contact-card">
+          <h2 data-i18n="contact.laboratory">Laboratory</h2>
+          <dl class="contact-dl">
+            <dt data-i18n="contact.email">Email</dt>
+            <dd id="contact-email">[ADD CONTACT DETAILS]</dd>
+            <dt data-i18n="contact.phone">Phone</dt>
+            <dd id="contact-phone">[ADD CONTACT DETAILS]</dd>
+            <dt data-i18n="contact.office">Office</dt>
+            <dd id="contact-office">[ADD CONTACT DETAILS]</dd>
+            <dt data-i18n="contact.address">Address</dt>
+            <dd id="contact-address">[ADD CONTACT DETAILS]</dd>
+          </dl>
+        </article>
+
+        <article class="contact-card">
+          <h2 data-i18n="contact.institution">Institution</h2>
+          <dl class="contact-dl">
+            <dt data-i18n="contact.university">University</dt>
+            <dd id="contact-university">College of Jiyang, Zhejiang A&amp;F University</dd>
+            <dt data-i18n="contact.pi">Principal Investigator</dt>
+            <dd data-i18n="contact.piName">Prof. Yuchuan Fan</dd>
+          </dl>
+          <h2 style="margin-top: 2rem;" data-i18n="contact.social">Social</h2>
+          <ul class="footer__list" id="contact-social" style="color: inherit;">
+            <li>[ADD SOCIAL LINK]</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="site-footer" role="contentinfo"></footer>
+
+  <script src="js/main.js"></script>
+  <script src="js/render.js"></script>
+  <script>
+    (function () {
+      var siteCache = null;
+      function draw() {
+        if (!siteCache) return;
+        LabRender.renderContact(siteCache);
+      }
+      document.addEventListener("DOMContentLoaded", function () {
+        LabSite.loadSite()
+          .then(function (site) {
+            siteCache = site;
+            draw();
+          })
+          .catch(function (err) {
+            console.error(err);
+          });
+      });
+      window.addEventListener("lab-lang-change", draw);
+    })();
+  </script>
+</body>
+</html>

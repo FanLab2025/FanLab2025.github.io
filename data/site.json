@@ -1,0 +1,98 @@
+{
+  "labName": {
+    "en": "FAN Lab",
+    "zh": "FAN Lab"
+  },
+  "logo": "assets/images/fan-lab-mark.png",
+  "tagline": {
+    "en": "Agricultural and environmental systems research",
+    "zh": "农业与环境系统交叉研究"
+  },
+  "institution": {
+    "en": "College of Jiyang, Zhejiang A&F University",
+    "zh": "浙江农林大学暨阳学院"
+  },
+  "institutionShort": {
+    "en": "College of Jiyang, Zhejiang A&F University",
+    "zh": "浙江农林大学暨阳学院"
+  },
+  "nav": [
+    {
+      "id": "home",
+      "href": "index.html"
+    },
+    {
+      "id": "about",
+      "href": "about.html"
+    },
+    {
+      "id": "research",
+      "href": "research.html"
+    },
+    {
+      "id": "people",
+      "href": "people.html"
+    },
+    {
+      "id": "pi",
+      "href": "pi.html"
+    },
+    {
+      "id": "publications",
+      "href": "publications.html"
+    },
+    {
+      "id": "contact",
+      "href": "contact.html"
+    }
+  ],
+  "footer": {
+    "institution": {
+      "en": "College of Jiyang, Zhejiang A&F University",
+      "zh": "浙江农林大学暨阳学院"
+    },
+    "note": {
+      "en": "[ADD FOOTER NOTE]",
+      "zh": "[待补充页脚说明]"
+    },
+    "copyrightYear": 2026
+  },
+  "contact": {
+    "email": {
+      "en": "[ADD CONTACT DETAILS]",
+      "zh": "[待补充联系方式]"
+    },
+    "phone": {
+      "en": "[ADD CONTACT DETAILS]",
+      "zh": "[待补充联系方式]"
+    },
+    "address": {
+      "en": "[ADD CONTACT DETAILS]",
+      "zh": "[待补充联系方式]"
+    },
+    "office": {
+      "en": "[ADD CONTACT DETAILS]",
+      "zh": "[待补充联系方式]"
+    }
+  },
+  "social": [
+    {
+      "label": {
+        "en": "[ADD SOCIAL LINK]",
+        "zh": "[待补充社交链接]"
+      },
+      "url": "#"
+    },
+    {
+      "label": {
+        "en": "[ADD SOCIAL LINK]",
+        "zh": "[待补充社交链接]"
+      },
+      "url": "#"
+    }
+  ],
+  "logoLockup": "assets/images/fan-lab-lockup.svg",
+  "logoLegacy": "assets/images/fan-lab-logo.png",
+  "favicon": "assets/images/fan-lab-favicon.svg",
+  "logoSvg": "assets/images/fan-lab-mark.svg"
+}

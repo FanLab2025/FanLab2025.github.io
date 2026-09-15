@@ -1,0 +1,103 @@
+{
+  "id": "yuchuan-fan",
+  "name": {
+    "en": "Yuchuan Fan",
+    "zh": "范豫川"
+  },
+  "honorific": {
+    "en": "Prof. Yuchuan Fan",
+    "zh": "范豫川教授"
+  },
+  "role": {
+    "en": "Professor, Zhejiang A&F University",
+    "zh": "浙江农林大学教授"
+  },
+  "email": "fanyuchuan@zafu.edu.cn",
+  "portrait": "assets/images/people/yuchuan-fan.jpg",
+  "intro": {
+    "en": "Prof. Yuchuan Fan works on agricultural and environmental systems, with research interests spanning climate-smart agriculture, agricultural non-point source pollution control, soil health, agricultural water management, sustainable agroecosystems, ecological restoration, and global ecohydrology. His work connects process-based environmental research with modelling, intelligent sensing, and data-driven approaches to support the interpretation and management of agricultural-environmental challenges.",
+    "zh": "范豫川教授长期从事农业与环境系统研究，研究兴趣涵盖气候智慧农业、农业面源污染治理、土壤健康、农水管理、农田生态系统可持续性、生态修复与全球生态水文等方向。他关注农业生产、资源环境与生态过程之间的联系，并致力于将过程研究、模型模拟、智能感知及数据分析方法用于农业环境问题的识别、解释与管理支持。"
+  },
+  "interestsTitle": {
+    "en": "Research interests",
+    "zh": "研究兴趣"
+  },
+  "interests": [
+    {
+      "en": "Climate-smart agriculture",
+      "zh": "气候智慧农业"
+    },
+    {
+      "en": "Agricultural non-point source pollution control",
+      "zh": "农业面源污染治理"
+    },
+    {
+      "en": "Soil health",
+      "zh": "土壤健康"
+    },
+    {
+      "en": "Agricultural water management",
+      "zh": "农水管理"
+    },
+    {
+      "en": "Sustainable agroecosystems",
+      "zh": "农田生态系统可持续性"
+    },
+    {
+      "en": "Ecological restoration",
+      "zh": "生态修复"
+    },
+    {
+      "en": "Global ecohydrology",
+      "zh": "全球生态水文"
+    }
+  ],
+  "educationTitle": {
+    "en": "Academic background",
+    "zh": "教育经历"
+  },
+  "education": [
+    {
+      "en": "PhD, Biosystems Engineering and Soil Science, University of Tennessee, 2017–2021",
+      "zh": "博士，生物系统工程与土壤科学，田纳西大学，2017–2021"
+    },
+    {
+      "en": "MSc, Soil and Water Science, China Agricultural University, 2014–2017",
+      "zh": "硕士，土壤与水科学，中国农业大学，2014–2017"
+    },
+    {
+      "en": "BSc, Environmental Science, Southwest University, 2009–2013",
+      "zh": "学士，环境科学，西南大学，2009–2013"
+    }
+  ],
+  "experienceTitle": {
+    "en": "Professional experience",
+    "zh": "工作经历"
+  },
+  "experience": [
+    {
+      "en": "Professor, Zhejiang A&F University, 2025–present",
+      "zh": "教授，浙江农林大学，2025年至今"
+    },
+    {
+      "en": "Assistant Researcher, High Performance Computing Laboratory, Mississippi State University, 2024–2025",
+      "zh": "助理研究员，密西西比州立大学高性能计算实验室，2024–2025"
+    },
+    {
+      "en": "Assistant Researcher, Louisiana State University, 2023–2024",
+      "zh": "助理研究员，路易斯安那州立大学，2023–2024"
+    },
+    {
+      "en": "Postdoctoral Researcher, University of Florida, 2021–2023",
+      "zh": "博士后，佛罗里达大学，2021–2023"
+    }
+  ],
+  "philosophyTitle": {
+    "en": "Research philosophy",
+    "zh": "研究理念"
+  },
+  "philosophy": {
+    "en": "Ground research in real agricultural-environmental challenges, combine long-term observation with process understanding and methodological innovation, and develop reliable evidence for agricultural practice and ecological management.",
+    "zh": "以真实农业环境问题为导向，重视长期观测、过程理解与方法创新的结合；在复杂系统中寻找能够服务生产实践与生态治理的可靠证据。"
+  }
+}

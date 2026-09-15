@@ -1,0 +1,358 @@
+{
+  "groupOrder": [
+    "pi",
+    "researcher",
+    "graduate",
+    "assistant"
+  ],
+  "members": [
+    {
+      "id": "yuchuan-fan",
+      "group": "pi",
+      "name": {
+        "en": "Yuchuan Fan",
+        "zh": "范豫川"
+      },
+      "role": {
+        "en": "Professor, Zhejiang A&F University",
+        "zh": "浙江农林大学教授"
+      },
+      "email": "fanyuchuan@zafu.edu.cn",
+      "portrait": "assets/images/people/yuchuan-fan.jpg",
+      "monogram": "YF",
+      "bio": {
+        "en": "Prof. Yuchuan Fan works on agricultural and environmental systems, with research interests spanning climate-smart agriculture, agricultural non-point source pollution control, soil health, agricultural water management, sustainable agroecosystems, ecological restoration, and global ecohydrology. His work connects process-based environmental research with modelling, intelligent sensing, and data-driven approaches to support the interpretation and management of agricultural-environmental challenges.",
+        "zh": "范豫川教授长期从事农业与环境系统研究，研究兴趣涵盖气候智慧农业、农业面源污染治理、土壤健康、农水管理、农田生态系统可持续性、生态修复与全球生态水文等方向。他关注农业生产、资源环境与生态过程之间的联系，并致力于将过程研究、模型模拟、智能感知及数据分析方法用于农业环境问题的识别、解释与管理支持。"
+      },
+      "keywords": [
+        {
+          "en": "Climate-smart agriculture",
+          "zh": "气候智慧农业"
+        },
+        {
+          "en": "Agricultural non-point source pollution control",
+          "zh": "农业面源污染治理"
+        },
+        {
+          "en": "Soil health",
+          "zh": "土壤健康"
+        },
+        {
+          "en": "Agricultural water management",
+          "zh": "农水管理"
+        }
+      ],
+      "education": [
+        {
+          "en": "PhD, Biosystems Engineering and Soil Science, University of Tennessee, 2017–2021",
+          "zh": "博士，生物系统工程与土壤科学，田纳西大学，2017–2021"
+        },
+        {
+          "en": "MSc, Soil and Water Science, China Agricultural University, 2014–2017",
+          "zh": "硕士，土壤与水科学，中国农业大学，2014–2017"
+        },
+        {
+          "en": "BSc, Environmental Science, Southwest University, 2009–2013",
+          "zh": "学士，环境科学，西南大学，2009–2013"
+        }
+      ],
+      "selectedPublications": [],
+      "hasProfile": true,
+      "profileHref": "pi.html"
+    },
+    {
+      "id": "wei-fang",
+      "group": "researcher",
+      "name": {
+        "en": "Wei Fang",
+        "zh": "方伟"
+      },
+      "role": {
+        "en": "Postdoctoral Researcher",
+        "zh": "博士后"
+      },
+      "email": "weifang@zafu.edu.cn",
+      "portrait": null,
+      "monogram": "WF",
+      "bio": {
+        "en": "Wei Fang received a Ph.D. in Agronomy in 2026 from the College of Environment and Resources and the College of Carbon Neutrality at Zhejiang A&F University. His research focuses on soil microorganism–plant interactions. He has participated in Zhejiang Province’s “Jianbing” and “Lingyan” R&D Key Programs and has published several papers in journals including Biology and Fertility of Soils, European Journal of Soil Biology, Frontiers in Microbiology, iMeta, and Ecotoxicology and Environmental Safety. He is also the holder of two invention patents.",
+        "zh": "方伟于2026年在浙江农林大学环境与资源学院、碳中和学院获农学博士学位。研究聚焦土壤微生物与植物互作。曾参与浙江省“尖兵”“领雁”研发攻关计划，在 Biology and Fertility of Soils、European Journal of Soil Biology、Frontiers in Microbiology、iMeta、Ecotoxicology and Environmental Safety 等期刊发表论文，并拥有两项发明专利。"
+      },
+      "keywords": [
+        {
+          "en": "Soil microbiology",
+          "zh": "土壤微生物"
+        },
+        {
+          "en": "Plant–microbe interactions",
+          "zh": "植物—微生物互作"
+        }
+      ],
+      "education": [
+        {
+          "en": "Henan Agricultural University, BSc Agricultural Resources and Environment, 2017.06",
+          "zh": "河南农业大学，农业资源与环境学士，2017.06"
+        },
+        {
+          "en": "Zhejiang A&F University, MSc Agricultural Resources Utilization, 2020.01",
+          "zh": "浙江农林大学，农业资源利用硕士，2020.01"
+        },
+        {
+          "en": "Zhejiang A&F University, PhD Agricultural Resources and Environment, 2026.06",
+          "zh": "浙江农林大学，农业资源与环境博士，2026.06"
+        }
+      ],
+      "selectedPublications": [
+        {
+          "title": "Dynamics of soil health and microbial interactivity during 11 seasons of watermelon cropping: identifying the critical threshold for dysbiosis",
+          "authors": "Fang W, Zhang Y, Liang C, et al.",
+          "venue": "Biology and Fertility of Soils",
+          "year": "2026",
+          "doi": null
+        },
+        {
+          "title": "Effects of forest management intensity on soil microbial diversity and community assembly in Carya cathayensis plantations",
+          "authors": "Fang W, Shao S, Liang C, et al.",
+          "venue": "European Journal of Soil Biology, 128, 103798",
+          "year": "2026",
+          "doi": null
+        },
+        {
+          "title": "Deciphering differences in microbial community characteristics and main factors between healthy and root rot-infected Carya cathayensis rhizosphere soils",
+          "authors": "Fang, W., Zhu, Y., Liang, C., Shao, S., Chen, J., Qin, H., & Xu, Q.",
+          "venue": "Frontiers in Microbiology, 15, 1448675",
+          "year": "2024",
+          "doi": "10.3389/fmicb.2024.1448675"
+        }
+      ],
+      "hasProfile": true
+    },
+    {
+      "id": "jianxiao-su",
+      "group": "graduate",
+      "name": {
+        "en": "Jianxiao Su",
+        "zh": "苏建潇"
+      },
+      "role": {
+        "en": "PhD Student",
+        "zh": "博士研究生"
+      },
+      "email": null,
+      "portrait": null,
+      "monogram": "JS",
+      "bio": {
+        "en": "Jianxiao Su is a first-year PhD student focusing on plant functional traits, ecosystem productivity, and soil carbon cycling under global environmental change. She earned both a bachelor's degree in Biological Sciences and a master's degree in Botany from Xinjiang Normal University. Her research integrates field observations, large-scale ecological datasets, and statistical and machine learning approaches to examine ecological patterns and their underlying processes. She has published as a first author or co-first author in Journal of Environmental Management, Forest Ecology and Management, Forests, Forestry Research, and The Innovation Informatics. Her current research focuses on soil organic carbon dynamics, environmental drivers, and the application and interpretation of AI-based ecological models.",
+        "zh": "苏建潇，浙江农林大学一年级博士研究生，研究方向为植物功能性状、生态系统生产力及全球变化背景下的土壤碳循环。本科与硕士毕业于新疆师范大学（生物科学学士、植物学硕士）。研究结合野外观测、大尺度生态数据以及统计与机器学习方法。曾以第一作者或共同第一作者在相关国际期刊发表论文。目前关注土壤有机碳动态、环境驱动因子及人工智能生态模型的应用与解释。"
+      },
+      "keywords": [
+        {
+          "en": "Plant functional traits",
+          "zh": "植物功能性状"
+        },
+        {
+          "en": "Ecosystem productivity",
+          "zh": "生态系统生产力"
+        },
+        {
+          "en": "Soil organic carbon and carbon sequestration",
+          "zh": "土壤有机碳与碳汇"
+        }
+      ],
+      "education": [],
+      "selectedPublications": [
+        {
+          "title": "Nonlinear biogeographic responses and threshold patterns in vegetative versus reproductive traits across China's ecosystems",
+          "authors": "Su, J., Zheng, Y., Zhang, L., et al.",
+          "venue": "Journal of Environmental Management, 413, 130315",
+          "year": "2026",
+          "doi": "10.1016/j.jenvman.2026.130315"
+        },
+        {
+          "title": "Community-specific thresholds structure a global biotic–climatic–edaphic control gradient of grassland productivity",
+          "authors": "Su, J., Fan, Y., Zhang, X., et al.",
+          "venue": "Ecological Frontiers",
+          "year": "2026",
+          "doi": "10.1016/j.ecofro.2026.01.009"
+        },
+        {
+          "title": "Divergent responses of leaf traits to latitudinal gradients in natural and planted forests",
+          "authors": "Su, J., Xu, J., Yu, M., & Gao, J.",
+          "venue": "Forestry Research, 6, e002",
+          "year": "2026",
+          "doi": "10.48130/forres-0026-0002"
+        }
+      ],
+      "hasProfile": true
+    },
+    {
+      "id": "tianhui-huang",
+      "group": "graduate",
+      "name": {
+        "en": "Tianhui Huang",
+        "zh": "黄天荟"
+      },
+      "role": {
+        "en": "Master’s Student",
+        "zh": "硕士研究生"
+      },
+      "email": null,
+      "portrait": "assets/images/people/tianhui-huang.jpg",
+      "monogram": "TH",
+      "bio": {
+        "en": "Huang Tianhui is an incoming Master's student in Environmental Science and Engineering at Zhejiang A&F University. She holds a Bachelor's degree in Electrical Engineering and Automation from Hubei University of Technology. During her undergraduate studies, she completed core courses including Automatic Control Theory, Power Electronics, and Electrical Machinery. She is proficient in Matlab, AutoCAD, and Dev-C++. Additionally, she participated in projects such as intelligent car design and electrical assembly modeling. Her academic training provided a solid foundation in system modeling, data analysis, and electrical design.",
+        "zh": "黄天荟，浙江农林大学环境科学与工程专业硕士研究生。本科毕业于湖北工业大学电气工程及其自动化专业，系统学习自动控制、电力电子与电机等课程，熟悉 Matlab、AutoCAD、Dev-C++，并参与智能车设计与电气装配建模等实践，具备系统建模与数据分析基础。"
+      },
+      "keywords": [
+        {
+          "en": "Environmental remote sensing",
+          "zh": "环境遥感"
+        },
+        {
+          "en": "Intelligent image segmentation",
+          "zh": "智能图像分割"
+        },
+        {
+          "en": "AI and big-data analysis",
+          "zh": "人工智能与大数据分析"
+        },
+        {
+          "en": "Intelligent sensing and signal processing",
+          "zh": "智能感知与信号处理"
+        }
+      ],
+      "education": [],
+      "selectedPublications": [],
+      "hasProfile": true
+    },
+    {
+      "id": "haoyong-yan",
+      "group": "graduate",
+      "name": {
+        "en": "Haoyong Yan",
+        "zh": "闫浩勇"
+      },
+      "role": {
+        "en": "Master’s Student",
+        "zh": "硕士研究生"
+      },
+      "email": null,
+      "portrait": null,
+      "monogram": "HY",
+      "bio": {
+        "en": "Yan Haoyong is a first-year Master’s student at Zhejiang A&F University. He received his Bachelor’s degree in Data Science and Big Data Technology. His research interests include environmental remote sensing, intelligent image segmentation, big-data analysis and mathematical modeling. He is eager to apply data-driven methods to solve ecological and agricultural environmental problems, and keeps learning new tools for geospatial data processing.",
+        "zh": "闫浩勇，浙江农林大学一年级硕士研究生。本科毕业于数据科学与大数据技术专业。研究兴趣包括环境遥感、智能图像分割、大数据分析与数学建模，致力于将数据驱动方法应用于生态与农业环境问题，并持续学习地理空间数据处理相关工具。"
+      },
+      "keywords": [
+        {
+          "en": "Big-data analysis",
+          "zh": "大数据分析"
+        },
+        {
+          "en": "Mathematical modelling",
+          "zh": "数学建模"
+        }
+      ],
+      "education": [],
+      "selectedPublications": [],
+      "hasProfile": true
+    },
+    {
+      "id": "fengjun-zhu",
+      "group": "graduate",
+      "name": {
+        "en": "Fengjun Zhu",
+        "zh": "朱丰俊"
+      },
+      "role": {
+        "en": "Master’s Student",
+        "zh": "硕士研究生"
+      },
+      "email": null,
+      "portrait": null,
+      "monogram": "FZ",
+      "bio": {
+        "en": "Zhu Fengjun is a graduate student at Zhejiang A&F University, where he is engaged in study and research related to Human Geography and Urban-Rural Planning. He earned his bachelor’s degree in Human Geography and Urban-Rural Planning, which gave him a solid foundation in geography, urban-rural planning, and spatial analysis. During his undergraduate studies, he completed professional courses and became fairly proficient in CAD, C++, and ArcGIS. He can use these tools for mapping, data processing, spatial analysis, and basic programming.",
+        "zh": "朱丰俊，浙江农林大学硕士研究生，从事人文地理与城乡规划相关学习与研究。本科毕业于人文地理与城乡规划专业，具备地理学、城乡规划与空间分析基础。本科阶段系统学习专业课程，较为熟练使用 CAD、C++ 与 ArcGIS，可用于制图、数据处理、空间分析及基础编程。"
+      },
+      "keywords": [
+        {
+          "en": "Climate-smart agriculture",
+          "zh": "气候智慧农业"
+        },
+        {
+          "en": "Environmental remote sensing",
+          "zh": "环境遥感"
+        },
+        {
+          "en": "AI and big-data analysis",
+          "zh": "人工智能与大数据分析"
+        }
+      ],
+      "education": [],
+      "selectedPublications": [],
+      "hasProfile": true
+    },
+    {
+      "id": "anqi-wang",
+      "group": "assistant",
+      "name": {
+        "en": "Anqi Wang",
+        "zh": "王安奇"
+      },
+      "role": {
+        "en": "Research Assistant",
+        "zh": "科研助理"
+      },
+      "email": null,
+      "portrait": "assets/images/people/anqi-wang.jpg",
+      "monogram": "AW",
+      "bio": {
+        "en": "Works on research and data analysis related to smart agriculture, hydrological processes, ecological resilience, and environmental modelling.",
+        "zh": "围绕智慧农业、水文过程、生态韧性与环境数据建模开展研究与数据分析工作。"
+      },
+      "keywords": [
+        {
+          "en": "Smart agriculture",
+          "zh": "智慧农业"
+        },
+        {
+          "en": "Hydrological processes",
+          "zh": "水文过程"
+        },
+        {
+          "en": "Ecological resilience",
+          "zh": "生态韧性"
+        },
+        {
+          "en": "Environmental modelling",
+          "zh": "环境数据建模"
+        }
+      ],
+      "education": [],
+      "selectedPublications": [],
+      "hasProfile": false
+    },
+    {
+      "id": "jiang-rui",
+      "group": "assistant",
+      "name": {
+        "en": "Jiang Rui",
+        "zh": "江睿"
+      },
+      "role": null,
+      "email": null,
+      "portrait": null,
+      "monogram": "JR",
+      "bio": {
+        "en": "Profile coming soon",
+        "zh": "成员信息待补充"
+      },
+      "keywords": [],
+      "education": [],
+      "selectedPublications": [],
+      "hasProfile": false,
+      "isPlaceholder": true
+    }
+  ]
+}

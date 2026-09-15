@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Principal Investigator of FAN Lab, Prof. Yuchuan Fan." />
+  <title>Prof. Yuchuan Fan · FAN Lab</title>
+  <script>
+    (function () {
+      try {
+        var l = localStorage.getItem("lab-lang");
+        if (l !== "zh" && l !== "en") {
+          var n = (navigator.language || "en").toLowerCase();
+          l = n.indexOf("zh") === 0 ? "zh" : "en";
+        }
+        document.documentElement.lang = l === "zh" ? "zh-CN" : "en";
+        document.documentElement.setAttribute("data-lang", l);
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="icon" href="assets/images/fan-lab-favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skipToContent">Skip to content</a>
+  <header class="site-header" id="site-header" role="banner"></header>
+  <main id="main" class="main">
+    <div class="container">
+      <div id="pi-root" aria-live="polite">
+        <p class="status-msg" data-i18n="piPage.loading">Loading profile…</p>
+      </div>
+    </div>
+  </main>
+  <footer class="site-footer" id="site-footer" role="contentinfo"></footer>
+  <script src="js/main.js"></script>
+  <script src="js/render.js"></script>
+  <script>
+    (function () {
+      var profile = null;
+      function draw() {
+        if (!profile) return;
+        LabRender.renderPI(profile, document.getElementById("pi-root"));
+      }
+      document.addEventListener("DOMContentLoaded", function () {
+        LabSite.loadSite()
+          .then(function () {
+            return LabSite.fetchJSON(LabSite.DATA_BASE + "pi.json");
+          })
+          .then(function (data) {
+            profile = data;
+            draw();
+          })
+          .catch(function (err) {
+            console.error(err);
+            var el = document.getElementById("pi-root");
+            if (el) {
+              el.innerHTML = '<p class="status-msg status-msg--error">' +
+                LabSite.escapeHtml(LabSite.t("status.loadFail")) +
+                "</p>";
+            }
+          });
+      });
+      window.addEventListener("lab-lang-change", draw);
+    })();
+  </script>
+</body>
+</html>
