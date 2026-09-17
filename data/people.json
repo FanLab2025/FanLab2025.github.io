@@ -72,7 +72,7 @@
         "zh": "博士后"
       },
       "email": "weifang@zafu.edu.cn",
-      "portrait": null,
+      "portrait": "assets/images/people/wei-fang.jpg",
       "monogram": "WF",
       "bio": {
         "en": "Wei Fang received a Ph.D. in Agronomy in 2026 from the College of Environment and Resources and the College of Carbon Neutrality at Zhejiang A&F University. His research focuses on soil microorganism–plant interactions. He has participated in Zhejiang Province’s “Jianbing” and “Lingyan” R&D Key Programs and has published several papers in journals including Biology and Fertility of Soils, European Journal of Soil Biology, Frontiers in Microbiology, iMeta, and Ecotoxicology and Environmental Safety. He is also the holder of two invention patents.",
@@ -139,7 +139,7 @@
         "zh": "博士研究生"
       },
       "email": null,
-      "portrait": null,
+      "portrait": "assets/images/people/jianxiao-su.jpg",
       "monogram": "JS",
       "bio": {
         "en": "Jianxiao Su is a first-year PhD student focusing on plant functional traits, ecosystem productivity, and soil carbon cycling under global environmental change. She earned both a bachelor's degree in Biological Sciences and a master's degree in Botany from Xinjiang Normal University. Her research integrates field observations, large-scale ecological datasets, and statistical and machine learning approaches to examine ecological patterns and their underlying processes. She has published as a first author or co-first author in Journal of Environmental Management, Forest Ecology and Management, Forests, Forestry Research, and The Innovation Informatics. Her current research focuses on soil organic carbon dynamics, environmental drivers, and the application and interpretation of AI-based ecological models.",
@@ -237,7 +237,7 @@
         "zh": "硕士研究生"
       },
       "email": null,
-      "portrait": null,
+      "portrait": "assets/images/people/haoyong-yan.jpg",
       "monogram": "HY",
       "bio": {
         "en": "Yan Haoyong is a first-year Master’s student at Zhejiang A&F University. He received his Bachelor’s degree in Data Science and Big Data Technology. His research interests include environmental remote sensing, intelligent image segmentation, big-data analysis and mathematical modeling. He is eager to apply data-driven methods to solve ecological and agricultural environmental problems, and keeps learning new tools for geospatial data processing.",
@@ -269,7 +269,7 @@
         "zh": "硕士研究生"
       },
       "email": null,
-      "portrait": null,
+      "portrait": "assets/images/people/fengjun-zhu.jpg",
       "monogram": "FZ",
       "bio": {
         "en": "Zhu Fengjun is a graduate student at Zhejiang A&F University, where he is engaged in study and research related to Human Geography and Urban-Rural Planning. He earned his bachelor’s degree in Human Geography and Urban-Rural Planning, which gave him a solid foundation in geography, urban-rural planning, and spatial analysis. During his undergraduate studies, he completed professional courses and became fairly proficient in CAD, C++, and ArcGIS. He can use these tools for mapping, data processing, spatial analysis, and basic programming.",
@@ -337,25 +337,45 @@
       "id": "jiang-rui",
       "group": "researcher",
       "name": {
-        "en": "Dr. Jiang Rui",
-        "zh": "江睿博士"
+        "en": "Rui Jiang",
+        "zh": "江睿"
       },
       "role": {
-        "en": "Lecturer",
-        "zh": "讲师"
+        "en": "Lecturer in Environmental Engineering",
+        "zh": "环境工程专业专任教师"
       },
       "email": null,
-      "portrait": null,
+      "portrait": "assets/images/people/jiang-rui.jpg",
       "monogram": "JR",
       "bio": {
-        "en": "Profile coming soon",
-        "zh": "成员信息待补充"
+        "en": "Dr. Rui Jiang is a Lecturer in Environmental Engineering at the College of Biological and Environmental Sciences, College of Jiyang, Zhejiang A&F University. He received his PhD in June 2026 and joined the College in July 2026. His research focuses on soil biogeochemistry and the diagnosis and improvement of constraints in subtropical red soils. Current interests include soil carbon accumulation and compaction alleviation in red soils; mineral-microbial controls on soil organic carbon formation and stability; effects of tillage and crop management on soil carbon pools and structure; and iron-phosphorus interactions at mineral interfaces.",
+        "zh": "江睿，博士，现为浙江农林大学暨阳学院生物与环境学院环境工程专业专任教师。2026 年 6 月获博士学位，同年 7 月加入暨阳学院。研究聚焦土壤生物地球化学与红壤障碍诊断及改良，重点关注红壤增碳与破板机制、矿物—微生物互作对土壤有机碳形成和稳定的调控、耕作管理对土壤碳库与结构的影响，以及土壤矿物界面铁—磷互作过程。"
       },
-      "keywords": [],
+      "keywords": [
+        {
+          "en": "Soil Biogeochemistry",
+          "zh": "土壤生物地球化学"
+        },
+        {
+          "en": "Red Soil Management",
+          "zh": "红壤障碍诊断与改良"
+        },
+        {
+          "en": "Soil Organic Carbon",
+          "zh": "土壤有机碳"
+        },
+        {
+          "en": "Mineral-Microbial Interactions",
+          "zh": "矿物—微生物互作"
+        },
+        {
+          "en": "Soil Pollution Control",
+          "zh": "土壤污染控制"
+        }
+      ],
       "education": [],
       "selectedPublications": [],
-      "hasProfile": false,
-      "isPlaceholder": true
+      "hasProfile": true
     }
   ]
 }
