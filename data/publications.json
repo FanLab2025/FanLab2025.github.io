@@ -1,73 +1,924 @@
 {
   "publications": [
     {
-      "id": "pub-placeholder-1",
+      "id": "pub-catena-2026-110300",
       "title": {
-        "en": "[ADD PUBLICATION]",
-        "zh": "[待补充成果]"
+        "en": "Bamboo expansion into broadleaf forests restructures topsoil carbon, nitrogen, phosphorus and potassium pools: A trade-off between carbon sink enhancement and nutrient limitation",
+        "zh": "Bamboo expansion into broadleaf forests restructures topsoil carbon, nitrogen, phosphorus and potassium pools: A trade-off between carbon sink enhancement and nutrient limitation"
       },
       "authors": {
-        "en": "[ADD AUTHORS]",
-        "zh": "[待补充作者]"
+        "en": "Qiudi Wu, Xin Wang, Bing Ma, Hongwei Zhou, Chenyang Huang, Liangjie Wang, Youjin Yan, Ziqiang Liu, Lina Mei, Haibo Hu, Lin Chen, Fengling Gan, Yuchuan Fan, Jie Gao",
+        "zh": "Qiudi Wu, Xin Wang, Bing Ma, Hongwei Zhou, Chenyang Huang, Liangjie Wang, Youjin Yan, Ziqiang Liu, Lina Mei, Haibo Hu, Lin Chen, Fengling Gan, Yuchuan Fan, Jie Gao"
       },
       "venue": {
-        "en": "[ADD VENUE]",
-        "zh": "[待补充期刊或出版社]"
+        "en": "Catena",
+        "zh": "Catena"
       },
       "year": {
-        "en": "[ADD YEAR]",
-        "zh": "[待补充年份]"
+        "en": "2026",
+        "zh": "2026"
       },
-      "doi": null,
+      "doi": "10.1016/j.catena.2026.110300",
       "url": null,
       "type": "journal",
-      "isPlaceholder": true
+      "isPlaceholder": false
     },
     {
-      "id": "pub-placeholder-2",
+      "id": "pub-agriculture-2026-565",
       "title": {
-        "en": "[ADD PUBLICATION]",
-        "zh": "[待补充成果]"
+        "en": "Best Management Practices for Soil Health and Water Quality: From Practice Catalogs to Decision Intelligence",
+        "zh": "Best Management Practices for Soil Health and Water Quality: From Practice Catalogs to Decision Intelligence"
       },
       "authors": {
-        "en": "[ADD AUTHORS]",
-        "zh": "[待补充作者]"
+        "en": "Yuchuan Fan, Xi Zhang, Sutie Xu",
+        "zh": "Yuchuan Fan, Xi Zhang, Sutie Xu"
       },
       "venue": {
-        "en": "[ADD VENUE]",
-        "zh": "[待补充期刊或出版社]"
+        "en": "Agriculture",
+        "zh": "Agriculture"
       },
       "year": {
-        "en": "[ADD YEAR]",
-        "zh": "[待补充年份]"
+        "en": "2026",
+        "zh": "2026"
       },
-      "doi": null,
+      "doi": "10.3390/agriculture16050565",
       "url": null,
       "type": "journal",
-      "isPlaceholder": true
+      "isPlaceholder": false
     },
     {
-      "id": "pub-placeholder-3",
+      "id": "pub-commsenv-2026-03741",
       "title": {
-        "en": "[ADD PUBLICATION]",
-        "zh": "[待补充成果]"
+        "en": "Biomarkers reveal vulnerability of plant and microbial carbon to sea-level rise in estuarine wetlands",
+        "zh": "Biomarkers reveal vulnerability of plant and microbial carbon to sea-level rise in estuarine wetlands"
       },
       "authors": {
-        "en": "[ADD AUTHORS]",
-        "zh": "[待补充作者]"
+        "en": "Bingbing Yu, Ziqi Zhu, Shaopan Xia, Chenxu Zhangsong, Wei Yang, Qiang Li, Yuchuan Fan, Rongjun Bian, Xuhui Zhang, Jufeng Zheng",
+        "zh": "Bingbing Yu, Ziqi Zhu, Shaopan Xia, Chenxu Zhangsong, Wei Yang, Qiang Li, Yuchuan Fan, Rongjun Bian, Xuhui Zhang, Jufeng Zheng"
       },
       "venue": {
-        "en": "[ADD VENUE]",
-        "zh": "[待补充期刊或出版社]"
+        "en": "Communications Earth & Environment",
+        "zh": "Communications Earth & Environment"
       },
       "year": {
-        "en": "[ADD YEAR]",
-        "zh": "[待补充年份]"
+        "en": "2026",
+        "zh": "2026"
       },
-      "doi": null,
+      "doi": "10.1038/s43247-026-03741-3",
       "url": null,
       "type": "journal",
-      "isPlaceholder": true
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agsy-2026-104697",
+      "title": {
+        "en": "Closing maize yield gaps in North China plain: Based on plot-scale farmer survey and simulation",
+        "zh": "Closing maize yield gaps in North China plain: Based on plot-scale farmer survey and simulation"
+      },
+      "authors": {
+        "en": "Yimin Hu, Yuejun Chen, Bowei Duan, Tianzhan Dong, Xin Qian, Zongxin Li, Yuchuan Fan, Anqi Wang, Shuqi Yang, Wangsheng Gao, Yuanquan Chen",
+        "zh": "Yimin Hu, Yuejun Chen, Bowei Duan, Tianzhan Dong, Xin Qian, Zongxin Li, Yuchuan Fan, Anqi Wang, Shuqi Yang, Wangsheng Gao, Yuanquan Chen"
+      },
+      "venue": {
+        "en": "Agricultural Systems",
+        "zh": "Agricultural Systems"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.agsy.2026.104697",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-ecofro-2026-01009",
+      "title": {
+        "en": "Community-specific thresholds structure a global biotic–climatic–edaphic control gradient of grassland productivity",
+        "zh": "Community-specific thresholds structure a global biotic–climatic–edaphic control gradient of grassland productivity"
+      },
+      "authors": {
+        "en": "Jianxiao Su, Yuchuan Fan, Xing Zhang, Wen Liu, Honglin He, Liang Shi, Xiaoxuan Du, Fengling Gan, Xiali Guo, Mengyao Yu, Youjin Yan, Xi Zhang, Nan Wang, Anqi Wang, Jie Gao",
+        "zh": "Jianxiao Su, Yuchuan Fan, Xing Zhang, Wen Liu, Honglin He, Liang Shi, Xiaoxuan Du, Fengling Gan, Xiali Guo, Mengyao Yu, Youjin Yan, Xi Zhang, Nan Wang, Anqi Wang, Jie Gao"
+      },
+      "venue": {
+        "en": "Ecological Frontiers",
+        "zh": "Ecological Frontiers"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.ecofro.2026.01.009",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agee-2026-110128",
+      "title": {
+        "en": "Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis",
+        "zh": "Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis"
+      },
+      "authors": {
+        "en": "Samuel Adingo, Rui Jiang, Zichun Guo, Fahui Jiang, Lei Gao, Jianli Liu, Shuai Liu, Xinhua Peng",
+        "zh": "Samuel Adingo, Rui Jiang, Zichun Guo, Fahui Jiang, Lei Gao, Jianli Liu, Shuai Liu, Xinhua Peng"
+      },
+      "venue": {
+        "en": "Agriculture, Ecosystems & Environment",
+        "zh": "Agriculture, Ecosystems & Environment"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.agee.2025.110128",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agriculture-2026-304",
+      "title": {
+        "en": "Digital Transformation and High-Quality Development in China’s Leading Agribusiness Firms: A TOE-Based Configurational Analysis",
+        "zh": "Digital Transformation and High-Quality Development in China’s Leading Agribusiness Firms: A TOE-Based Configurational Analysis"
+      },
+      "authors": {
+        "en": "Xi Zhou, Jingyi Hu, Wen Liu, Yuchuan Fan",
+        "zh": "Xi Zhou, Jingyi Hu, Wen Liu, Yuchuan Fan"
+      },
+      "venue": {
+        "en": "Agriculture",
+        "zh": "Agriculture"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.3390/agriculture16030304",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-catena-2026-109720",
+      "title": {
+        "en": "Divergent but complementary: vegetation-driven POC in marshes vs. mineral-shielded MAOC in tidal flats secure estuarine blue carbon",
+        "zh": "Divergent but complementary: vegetation-driven POC in marshes vs. mineral-shielded MAOC in tidal flats secure estuarine blue carbon"
+      },
+      "authors": {
+        "en": "Bingbing Yu, Shaopan Xia, Ziqi Zhu, Chenxu Zhangsong, Qiang Li, Wei Yang, Yuchuan Fan, Rongjun Bian, Xiaoyu Liu, Jufeng Zheng",
+        "zh": "Bingbing Yu, Shaopan Xia, Ziqi Zhu, Chenxu Zhangsong, Qiang Li, Wei Yang, Yuchuan Fan, Rongjun Bian, Xiaoyu Liu, Jufeng Zheng"
+      },
+      "venue": {
+        "en": "Catena",
+        "zh": "Catena"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.catena.2025.109720",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-forres-2026-0002",
+      "title": {
+        "en": "Divergent responses of leaf traits to latitudinal gradients in natural and planted forests",
+        "zh": "Divergent responses of leaf traits to latitudinal gradients in natural and planted forests"
+      },
+      "authors": {
+        "en": "Jianxiao Su, Jiali Xu, Mengyao Yu, Jie Gao",
+        "zh": "Jianxiao Su, Jiali Xu, Mengyao Yu, Jie Gao"
+      },
+      "venue": {
+        "en": "Forestry Research",
+        "zh": "Forestry Research"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.48130/forres-0026-0002",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-catena-2026-110443",
+      "title": {
+        "en": "Divergent responses of runoff and sediment partitioning to bedrock exposure rate on karst slopes under extreme rainfall",
+        "zh": "Divergent responses of runoff and sediment partitioning to bedrock exposure rate on karst slopes under extreme rainfall"
+      },
+      "authors": {
+        "en": "Chengrong Hong, Xinru Zhang, Youjin Yan, Liangjie Wang, Pengfei Wu, Quanhou Dai, Zeyin Hu, Lina Mei, Fengling Gan, Yuchuan Fan",
+        "zh": "Chengrong Hong, Xinru Zhang, Youjin Yan, Liangjie Wang, Pengfei Wu, Quanhou Dai, Zeyin Hu, Lina Mei, Fengling Gan, Yuchuan Fan"
+      },
+      "venue": {
+        "en": "Catena",
+        "zh": "Catena"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.catena.2026.110443",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-bfs-2026-02040",
+      "title": {
+        "en": "Dynamics of soil health and microbial interactivity during 11 seasons of watermelon cropping: identifying the critical threshold for dysbiosis",
+        "zh": "Dynamics of soil health and microbial interactivity during 11 seasons of watermelon cropping: identifying the critical threshold for dysbiosis"
+      },
+      "authors": {
+        "en": "Wei Fang, Yingyu Zhang, Chenfei Liang, Shuai Shao, Junhui Chen, Hua Qin, Qiufang Xu, Tongxing Wu",
+        "zh": "Wei Fang, Yingyu Zhang, Chenfei Liang, Shuai Shao, Junhui Chen, Hua Qin, Qiufang Xu, Tongxing Wu"
+      },
+      "venue": {
+        "en": "Biology and Fertility of Soils",
+        "zh": "Biology and Fertility of Soils"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1007/s00374-026-02040-5",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-ecolind-2026-115203",
+      "title": {
+        "en": "Ecological restoration reorganizes climate–runoff pathways in the Yellow River Basin",
+        "zh": "Ecological restoration reorganizes climate–runoff pathways in the Yellow River Basin"
+      },
+      "authors": {
+        "en": "Xun Zhang, Huazhu Zheng, Hongming He, Jungang Lu, Shupu Wu, Dong Cheng, Yuchuan Fan, Yongcai Lou, Claudio O. Delang, Christopher Gomez",
+        "zh": "Xun Zhang, Huazhu Zheng, Hongming He, Jungang Lu, Shupu Wu, Dong Cheng, Yuchuan Fan, Yongcai Lou, Claudio O. Delang, Christopher Gomez"
+      },
+      "venue": {
+        "en": "Ecological Indicators",
+        "zh": "Ecological Indicators"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.ecolind.2026.115203",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-ejsobi-2026-103798",
+      "title": {
+        "en": "Effects of forest management intensity on soil microbial diversity and community assembly in Carya cathayensis plantations",
+        "zh": "Effects of forest management intensity on soil microbial diversity and community assembly in Carya cathayensis plantations"
+      },
+      "authors": {
+        "en": "Wei Fang, Jing Gao, Shuai Shao, Chenfei Liang, Junhui Chen, Hua Qin, Qiufang Xu",
+        "zh": "Wei Fang, Jing Gao, Shuai Shao, Chenfei Liang, Junhui Chen, Hua Qin, Qiufang Xu"
+      },
+      "venue": {
+        "en": "European Journal of Soil Biology",
+        "zh": "European Journal of Soil Biology"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.ejsobi.2025.103798",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-ecolind-2026-114818",
+      "title": {
+        "en": "Elevational patterns and thresholds of plant functional traits across China's biomes",
+        "zh": "Elevational patterns and thresholds of plant functional traits across China's biomes"
+      },
+      "authors": {
+        "en": "Yujuan Zheng, Chengguang Zhong, Tong Lyu, Jinran Wu, Le Zhang, Jingwen Wang, Jie Gao, Tong Li, Yuchuan Fan, Rajiv Pandey",
+        "zh": "Yujuan Zheng, Chengguang Zhong, Tong Lyu, Jinran Wu, Le Zhang, Jingwen Wang, Jie Gao, Tong Li, Yuchuan Fan, Rajiv Pandey"
+      },
+      "venue": {
+        "en": "Ecological Indicators",
+        "zh": "Ecological Indicators"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.ecolind.2026.114818",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-commsenv-2026-03176",
+      "title": {
+        "en": "Enhanced forest management rather than afforestation has dominated China’s carbon sink over recent decades",
+        "zh": "Enhanced forest management rather than afforestation has dominated China’s carbon sink over recent decades"
+      },
+      "authors": {
+        "en": "Mengyu Zhang, Honglin He, Martin Brandt, Li Zhang, Xiaoli Ren, Xiaowei Tong, Shiyong Yu, Yan Lv, Kailiang Yu, Yuanyuan Huang, Yuchuan Fan, Zhong’en Niu, Liang Shi, Keyu Qin, Tong Zhao, Guirui Yu",
+        "zh": "Mengyu Zhang, Honglin He, Martin Brandt, Li Zhang, Xiaoli Ren, Xiaowei Tong, Shiyong Yu, Yan Lv, Kailiang Yu, Yuanyuan Huang, Yuchuan Fan, Zhong’en Niu, Liang Shi, Keyu Qin, Tong Zhao, Guirui Yu"
+      },
+      "venue": {
+        "en": "Communications Earth & Environment",
+        "zh": "Communications Earth & Environment"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1038/s43247-025-03176-2",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-plantsol-2026-08557",
+      "title": {
+        "en": "Flood-depth effects on rice soil health depend on sampling time, year, and soil quality index framework",
+        "zh": "Flood-depth effects on rice soil health depend on sampling time, year, and soil quality index framework"
+      },
+      "authors": {
+        "en": "Yuchuan Fan, Naba R. Amgain, Abul Rabbany, Matthew VanWeelden, Jehangir H. Bhadha",
+        "zh": "Yuchuan Fan, Naba R. Amgain, Abul Rabbany, Matthew VanWeelden, Jehangir H. Bhadha"
+      },
+      "venue": {
+        "en": "Plant and Soil",
+        "zh": "Plant and Soil"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1007/s11104-026-08557-w",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-fpls-2026-1719906",
+      "title": {
+        "en": "From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands",
+        "zh": "From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands"
+      },
+      "authors": {
+        "en": "Yujuan Zheng, Xing Zhang, Xiaoxuan Du, Yuchuan Fan, Jie Gao",
+        "zh": "Yujuan Zheng, Xing Zhang, Xiaoxuan Du, Yuchuan Fan, Jie Gao"
+      },
+      "venue": {
+        "en": "Frontiers in Plant Science",
+        "zh": "Frontiers in Plant Science"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.3389/fpls.2025.1719906",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agsy-2026-104544",
+      "title": {
+        "en": "Improving soil quality enables reductions in nitrogen application rate in China's rice production systems",
+        "zh": "Improving soil quality enables reductions in nitrogen application rate in China's rice production systems"
+      },
+      "authors": {
+        "en": "Siyuan Wang, Liujun Xiao, Peter Smith, Zhongkui Luo, Jie Zhuang, Le Yu, Yue Qin, Enli Wang, Yuchuan Fan, Yang Guo, Liang Tang, Bing Liu, Leilei Liu, Weixing Cao, Yan Zhu",
+        "zh": "Siyuan Wang, Liujun Xiao, Peter Smith, Zhongkui Luo, Jie Zhuang, Le Yu, Yue Qin, Enli Wang, Yuchuan Fan, Yang Guo, Liang Tang, Bing Liu, Leilei Liu, Weixing Cao, Yan Zhu"
+      },
+      "venue": {
+        "en": "Agricultural Systems",
+        "zh": "Agricultural Systems"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.agsy.2025.104544",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-apsoil-2026-107176",
+      "title": {
+        "en": "Intensive management shifts litter decomposition from mycorrhizal to root-dominated pathway in a subtropical bamboo plantation",
+        "zh": "Intensive management shifts litter decomposition from mycorrhizal to root-dominated pathway in a subtropical bamboo plantation"
+      },
+      "authors": {
+        "en": "Wenhao Jin, Jiahe Wang, Jiangfei Ge, Xingcong Ma, Qifeng Wu, Shuai Shao, Chenfei Liang, Liyuan Peng, Xiaomin Ma, Yuchuan Fan, Yongfu Li, Junhui Chen, Hua Qin, Jiajia Xing",
+        "zh": "Wenhao Jin, Jiahe Wang, Jiangfei Ge, Xingcong Ma, Qifeng Wu, Shuai Shao, Chenfei Liang, Liyuan Peng, Xiaomin Ma, Yuchuan Fan, Yongfu Li, Junhui Chen, Hua Qin, Jiajia Xing"
+      },
+      "venue": {
+        "en": "Applied Soil Ecology",
+        "zh": "Applied Soil Ecology"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.apsoil.2026.107176",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-jenvman-2026-130315",
+      "title": {
+        "en": "Nonlinear biogeographic responses and threshold patterns in vegetative versus reproductive traits across China's ecosystems",
+        "zh": "Nonlinear biogeographic responses and threshold patterns in vegetative versus reproductive traits across China's ecosystems"
+      },
+      "authors": {
+        "en": "Jianxiao Su, Yujuan Zheng, Le Zhang, Jingwen Wang, Chengguang Zhong, Xiaoxuan Du, Jinran Wu, Tong Li, Jie Gao, Yuchuan Fan",
+        "zh": "Jianxiao Su, Yujuan Zheng, Le Zhang, Jingwen Wang, Chengguang Zhong, Xiaoxuan Du, Jinran Wu, Tong Li, Jie Gao, Yuchuan Fan"
+      },
+      "venue": {
+        "en": "Journal of Environmental Management",
+        "zh": "Journal of Environmental Management"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.jenvman.2026.130315",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-resenv-2026-100323",
+      "title": {
+        "en": "Optimizing crop planting structures for water savings and grain revenue in China considering different spatial scales",
+        "zh": "Optimizing crop planting structures for water savings and grain revenue in China considering different spatial scales"
+      },
+      "authors": {
+        "en": "Wen Liu, Yuchuan Fan, T. Edward Yu",
+        "zh": "Wen Liu, Yuchuan Fan, T. Edward Yu"
+      },
+      "venue": {
+        "en": "Resources, Environment and Sustainability",
+        "zh": "Resources, Environment and Sustainability"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.resenv.2026.100323",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agwat-2026-110695",
+      "title": {
+        "en": "Predicting cotton yield and optimizing irrigation scheduling from coupled soil water–salinity dynamics",
+        "zh": "Predicting cotton yield and optimizing irrigation scheduling from coupled soil water–salinity dynamics"
+      },
+      "authors": {
+        "en": "Qi Chen, Wanzi Hu, Junshuai Hao, Qiang Zuo, Jianchu Shi, Yuchuan Fan, Xun Wu, Alon Ben-Gal",
+        "zh": "Qi Chen, Wanzi Hu, Junshuai Hao, Qiang Zuo, Jianchu Shi, Yuchuan Fan, Xun Wu, Alon Ben-Gal"
+      },
+      "venue": {
+        "en": "Agricultural Water Management",
+        "zh": "Agricultural Water Management"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.agwat.2026.110695",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-catena-2026-110222",
+      "title": {
+        "en": "Shrubs and trees diverge in microbial necromass and lignin pathways for stable SOC accumulation in a restored desert ecosystem",
+        "zh": "Shrubs and trees diverge in microbial necromass and lignin pathways for stable SOC accumulation in a restored desert ecosystem"
+      },
+      "authors": {
+        "en": "Zhiheng Wang, Qiang Li, Shaopan Xia, Ziqi Zhu, Chenxu Zhangsong, Wei Yang, Yuchuan Fan, Rongjun Bian, Xuhui Zhang, Jufeng Zheng",
+        "zh": "Zhiheng Wang, Qiang Li, Shaopan Xia, Ziqi Zhu, Chenxu Zhangsong, Wei Yang, Yuchuan Fan, Rongjun Bian, Xuhui Zhang, Jufeng Zheng"
+      },
+      "venue": {
+        "en": "Catena",
+        "zh": "Catena"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.catena.2026.110222",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-indic-2026-101251",
+      "title": {
+        "en": "Socioeconomic gradients modulate climate and soil controls on plant functional traits across China",
+        "zh": "Socioeconomic gradients modulate climate and soil controls on plant functional traits across China"
+      },
+      "authors": {
+        "en": "Yujuan Zheng, Jingwen Wang, Le Zhang, Chengguang Zhong, Xiaoxuan Du, Yuchuan Fan, Jie Gao",
+        "zh": "Yujuan Zheng, Jingwen Wang, Le Zhang, Chengguang Zhong, Xiaoxuan Du, Yuchuan Fan, Jie Gao"
+      },
+      "venue": {
+        "en": "Environmental and Sustainability Indicators",
+        "zh": "Environmental and Sustainability Indicators"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.indic.2026.101251",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-jece-2026-124241",
+      "title": {
+        "en": "Soil heterogeneity modulates pollutant–nutrient coupled microbial cross-kingdom interactions and PAH-degradation in long-term contaminated industrial soils",
+        "zh": "Soil heterogeneity modulates pollutant–nutrient coupled microbial cross-kingdom interactions and PAH-degradation in long-term contaminated industrial soils"
+      },
+      "authors": {
+        "en": "Jianfeng Liu, Xinliang Hu, Huili Zhao, Chengbo Zhang, Liuqing Yang, Conghui Zhang, Yuchuan Fan, Yongping Shan, Bin Liu, Wentao Jiao",
+        "zh": "Jianfeng Liu, Xinliang Hu, Huili Zhao, Chengbo Zhang, Liuqing Yang, Conghui Zhang, Yuchuan Fan, Yongping Shan, Bin Liu, Wentao Jiao"
+      },
+      "venue": {
+        "en": "Journal of Environmental Chemical Engineering",
+        "zh": "Journal of Environmental Chemical Engineering"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.jece.2026.124241",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-nexus-2026-100776",
+      "title": {
+        "en": "Soil nutrient dynamics in land-use patterns of the Garhwal Himalaya: An assessment for sustainable land management in India",
+        "zh": "Soil nutrient dynamics in land-use patterns of the Garhwal Himalaya: An assessment for sustainable land management in India"
+      },
+      "authors": {
+        "en": "Munesh Kumar, Priyanka Panwar, C.S. Dhanai, Harish Arya, Bhupendra Singh, Yuchuan Fan",
+        "zh": "Munesh Kumar, Priyanka Panwar, C.S. Dhanai, Harish Arya, Bhupendra Singh, Yuchuan Fan"
+      },
+      "venue": {
+        "en": "Energy Nexus",
+        "zh": "Energy Nexus"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.nexus.2026.100776",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-geoderma-2026-117736",
+      "title": {
+        "en": "Trade-offs and counteractions: carbon sink-source dynamics and carbon market potential in paddy fields under long-term elevated CO2 and warming",
+        "zh": "Trade-offs and counteractions: carbon sink-source dynamics and carbon market potential in paddy fields under long-term elevated CO2 and warming"
+      },
+      "authors": {
+        "en": "Shaopan Xia, Yaran Fan, Ziqi Zhu, Chenxu Zhangsong, Bingbing Yu, Wei Yang, Qiang Li, Yuchuan Fan, Rongjun Bian, Xiaoyu Liu, Jufeng Zheng",
+        "zh": "Shaopan Xia, Yaran Fan, Ziqi Zhu, Chenxu Zhangsong, Bingbing Yu, Wei Yang, Qiang Li, Yuchuan Fan, Rongjun Bian, Xiaoyu Liu, Jufeng Zheng"
+      },
+      "venue": {
+        "en": "Geoderma",
+        "zh": "Geoderma"
+      },
+      "year": {
+        "en": "2026",
+        "zh": "2026"
+      },
+      "doi": "10.1016/j.geoderma.2026.117736",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-geoderma-2025-117581",
+      "title": {
+        "en": "Decadal manure substitution reshapes microbial communities to drive plant and microbial carbon accumulation in soil carbon fractions",
+        "zh": "Decadal manure substitution reshapes microbial communities to drive plant and microbial carbon accumulation in soil carbon fractions"
+      },
+      "authors": {
+        "en": "Zhengwu Wu, Yanyan Zhang, Yuchuan Fan, Changquan Wang, Bing Li, Zed Rengel, Jianbo Shen, Edith le Cadre, Joann Whalen, Xiaoyan Tang",
+        "zh": "Zhengwu Wu, Yanyan Zhang, Yuchuan Fan, Changquan Wang, Bing Li, Zed Rengel, Jianbo Shen, Edith le Cadre, Joann Whalen, Xiaoyan Tang"
+      },
+      "venue": {
+        "en": "Geoderma",
+        "zh": "Geoderma"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.1016/j.geoderma.2025.117581",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-catena-2025-109023",
+      "title": {
+        "en": "Does the returning farmland to grassland (retiring grassland) improve the soil aggregate stability in erosion and deposition sites?",
+        "zh": "Does the returning farmland to grassland (retiring grassland) improve the soil aggregate stability in erosion and deposition sites?"
+      },
+      "authors": {
+        "en": "Wuyi Li, Yuanyue Xia, Xiaohong Tan, Fengling Gan, Lisha Jiang, Xiuying Xu, Youjin Yan, Yuchuan Fan, Junbing Pu",
+        "zh": "Wuyi Li, Yuanyue Xia, Xiaohong Tan, Fengling Gan, Lisha Jiang, Xiuying Xu, Youjin Yan, Yuchuan Fan, Junbing Pu"
+      },
+      "venue": {
+        "en": "Catena",
+        "zh": "Catena"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.1016/j.catena.2025.109023",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agriculture-2025-1050",
+      "title": {
+        "en": "Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon",
+        "zh": "Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon"
+      },
+      "authors": {
+        "en": "Ninghui Xie, Liangjie Sun, Tong Lu, Xi Zhang, Ning Duan, Wei Wang, Xiaolong Liang, Yuchuan Fan, Huiyu Liu",
+        "zh": "Ninghui Xie, Liangjie Sun, Tong Lu, Xi Zhang, Ning Duan, Wei Wang, Xiaolong Liang, Yuchuan Fan, Huiyu Liu"
+      },
+      "venue": {
+        "en": "Agriculture",
+        "zh": "Agriculture"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.3390/agriculture15101050",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-catena-2025-109235",
+      "title": {
+        "en": "Effects of slope aspect and tillage type on soil microbial biomass and its stoichiometric ratios in karst trough valley",
+        "zh": "Effects of slope aspect and tillage type on soil microbial biomass and its stoichiometric ratios in karst trough valley"
+      },
+      "authors": {
+        "en": "Xiaohong Tan, Lisha Jiang, Wuyi Li, Yuanyue Xia, Xin Cheng, Xiuying Xu, Fengling Gan, Youjin Yan, Yuchuan Fan, Junbing Pu",
+        "zh": "Xiaohong Tan, Lisha Jiang, Wuyi Li, Yuanyue Xia, Xin Cheng, Xiuying Xu, Fengling Gan, Youjin Yan, Yuchuan Fan, Junbing Pu"
+      },
+      "venue": {
+        "en": "Catena",
+        "zh": "Catena"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.1016/j.catena.2025.109235",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agwat-2025-109686",
+      "title": {
+        "en": "Evaluation and improvement of crop root-water-uptake and transpiration in AquaCrop",
+        "zh": "Evaluation and improvement of crop root-water-uptake and transpiration in AquaCrop"
+      },
+      "authors": {
+        "en": "Ting Zhang, Qiang Zuo, Jianchu Shi, Yuchuan Fan, Sumei Zhang, Xun Wu, Alon Ben-Gal",
+        "zh": "Ting Zhang, Qiang Zuo, Jianchu Shi, Yuchuan Fan, Sumei Zhang, Xun Wu, Alon Ben-Gal"
+      },
+      "venue": {
+        "en": "Agricultural Water Management",
+        "zh": "Agricultural Water Management"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.1016/j.agwat.2025.109686",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agronomy-2025-2765",
+      "title": {
+        "en": "From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability",
+        "zh": "From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability"
+      },
+      "authors": {
+        "en": "Yishu Yang, Xing Zhang, Xiaoxuan Du, Yuchuan Fan, Jie Gao",
+        "zh": "Yishu Yang, Xing Zhang, Xiaoxuan Du, Yuchuan Fan, Jie Gao"
+      },
+      "venue": {
+        "en": "Agronomy",
+        "zh": "Agronomy"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.3390/agronomy15122765",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-bfs-2025-01947",
+      "title": {
+        "en": "Interactive effects of straw and biochar amendments on soil organic carbon stabilization and bacterial community dynamics",
+        "zh": "Interactive effects of straw and biochar amendments on soil organic carbon stabilization and bacterial community dynamics"
+      },
+      "authors": {
+        "en": "Ninghui Xie, Yuchuan Fan, Ning Duan, Lu Yang, Mark Radosevich, Ying Zhang, Yongfeng Wang, Jingkuan Wang, Xiaolong Liang",
+        "zh": "Ninghui Xie, Yuchuan Fan, Ning Duan, Lu Yang, Mark Radosevich, Ying Zhang, Yongfeng Wang, Jingkuan Wang, Xiaolong Liang"
+      },
+      "venue": {
+        "en": "Biology and Fertility of Soils",
+        "zh": "Biology and Fertility of Soils"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.1007/s00374-025-01947-9",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-agriculture-2025-1772",
+      "title": {
+        "en": "Peak Soil Erosion Risk in Mixed Forests: A Critical Transition Phase Driven by Moso Bamboo Expansion",
+        "zh": "Peak Soil Erosion Risk in Mixed Forests: A Critical Transition Phase Driven by Moso Bamboo Expansion"
+      },
+      "authors": {
+        "en": "Jie Wang, Xin Wang, Youjin Yan, Liangjie Wang, Haibo Hu, Bing Ma, Hongwei Zhou, Jiacai Liu, Fengling Gan, Yuchuan Fan",
+        "zh": "Jie Wang, Xin Wang, Youjin Yan, Liangjie Wang, Haibo Hu, Bing Ma, Hongwei Zhou, Jiacai Liu, Fengling Gan, Yuchuan Fan"
+      },
+      "venue": {
+        "en": "Agriculture",
+        "zh": "Agriculture"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.3390/agriculture15161772",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-plants-2025-0098",
+      "title": {
+        "en": "Soil Microbes Mediate Productivity Differences Between Natural and Plantation Forests",
+        "zh": "Soil Microbes Mediate Productivity Differences Between Natural and Plantation Forests"
+      },
+      "authors": {
+        "en": "Xing Zhang, Mengya Yang, Yangyang Liu, Jinkun Ye, Jiechen Tangyu, Jie Gao, Weiguo Liu, Yuchuan Fan",
+        "zh": "Xing Zhang, Mengya Yang, Yangyang Liu, Jinkun Ye, Jiechen Tangyu, Jie Gao, Weiguo Liu, Yuchuan Fan"
+      },
+      "venue": {
+        "en": "Plants",
+        "zh": "Plants"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.3390/plants15010098",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-still-2025-106704",
+      "title": {
+        "en": "Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions",
+        "zh": "Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions"
+      },
+      "authors": {
+        "en": "Rui Jiang, Shuai Liu, Fahui Jiang, Zichun Guo, Samuel Adingo, Zengming Chen, Lei Gao, Xinhua Peng",
+        "zh": "Rui Jiang, Shuai Liu, Fahui Jiang, Zichun Guo, Samuel Adingo, Zengming Chen, Lei Gao, Xinhua Peng"
+      },
+      "venue": {
+        "en": "Soil and Tillage Research",
+        "zh": "Soil and Tillage Research"
+      },
+      "year": {
+        "en": "2025",
+        "zh": "2025"
+      },
+      "doi": "10.1016/j.still.2025.106704",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-fmicb-2024-1448675",
+      "title": {
+        "en": "Deciphering differences in microbial community characteristics and main factors between healthy and root rot-infected Carya cathayensis rhizosphere soils",
+        "zh": "Deciphering differences in microbial community characteristics and main factors between healthy and root rot-infected Carya cathayensis rhizosphere soils"
+      },
+      "authors": {
+        "en": "Wei Fang, Yiyang Zhu, Chenfei Liang, Shuai Shao, Junhui Chen, Hua Qin, Qiufang Xu",
+        "zh": "Wei Fang, Yiyang Zhu, Chenfei Liang, Shuai Shao, Junhui Chen, Hua Qin, Qiufang Xu"
+      },
+      "venue": {
+        "en": "Frontiers in Microbiology",
+        "zh": "Frontiers in Microbiology"
+      },
+      "year": {
+        "en": "2024",
+        "zh": "2024"
+      },
+      "doi": "10.3389/fmicb.2024.1448675",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-jaes-2023-0633",
+      "title": {
+        "en": "Effects of myo-inositol hexakisphosphate on the transformation of carbonate green rust",
+        "zh": "Effects of myo-inositol hexakisphosphate on the transformation of carbonate green rust"
+      },
+      "authors": {
+        "en": "Yali Sun, Guanjie Jiang, Rui Jiang, Shuai Lan, Yang Li, Yupeng Yan, Qin Zhang",
+        "zh": "Yali Sun, Guanjie Jiang, Rui Jiang, Shuai Lan, Yang Li, Yupeng Yan, Qin Zhang"
+      },
+      "venue": {
+        "en": "Journal of Agro-Environment Science",
+        "zh": "Journal of Agro-Environment Science"
+      },
+      "year": {
+        "en": "2023",
+        "zh": "2023"
+      },
+      "doi": "10.11654/jaes.2022-0633",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
+    },
+    {
+      "id": "pub-pedosphere-2023-08001",
+      "title": {
+        "en": "Interactions of organic phosphorus with soil minerals and the associated environmental impacts: A review",
+        "zh": "Interactions of organic phosphorus with soil minerals and the associated environmental impacts: A review"
+      },
+      "authors": {
+        "en": "Yupeng Yan, Biao Wan, Rui Jiang, Xiaoming Wang, Hui Wang, Shuai Lan, Qin Zhang, Xionghan Feng",
+        "zh": "Yupeng Yan, Biao Wan, Rui Jiang, Xiaoming Wang, Hui Wang, Shuai Lan, Qin Zhang, Xionghan Feng"
+      },
+      "venue": {
+        "en": "Pedosphere",
+        "zh": "Pedosphere"
+      },
+      "year": {
+        "en": "2023",
+        "zh": "2023"
+      },
+      "doi": "10.1016/j.pedsph.2022.08.001",
+      "url": null,
+      "type": "journal",
+      "isPlaceholder": false
     }
   ]
 }

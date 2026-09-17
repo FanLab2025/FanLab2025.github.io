@@ -218,6 +218,50 @@
       .join("");
   }
 
+  function boldYuchuanFan(authorsEscaped) {
+    return String(authorsEscaped || "").replace(
+      /Yuchuan Fan/g,
+      "<strong>Yuchuan Fan</strong>"
+    );
+  }
+
+  function pubItemHTML(p) {
+    const ph = p.isPlaceholder || isPh(p.title);
+    const itemClass = ph ? "pub-item pub-item--placeholder" : "pub-item";
+    const badge = ph
+      ? '<span class="pub-item__badge">' +
+        esc(t("publicationsPage.placeholder")) +
+        "</span>"
+      : "";
+    const doiRaw = pick(p.doi);
+    const doi =
+      doiRaw && !isPh(p.doi)
+        ? ' · <a href="https://doi.org/' +
+          esc(doiRaw) +
+          '" rel="noopener">DOI</a>'
+        : "";
+    const authorsHtml = boldYuchuanFan(esc(pick(p.authors)));
+    const venue = pick(p.venue);
+    const year = pick(p.year);
+    const metaHtml = [authorsHtml, esc(venue), esc(year)]
+      .filter(Boolean)
+      .join(" · ");
+    return (
+      '<li class="' +
+      itemClass +
+      '">' +
+      '<h3 class="pub-item__title">' +
+      esc(pick(p.title)) +
+      "</h3>" +
+      '<p class="pub-item__meta">' +
+      metaHtml +
+      doi +
+      "</p>" +
+      badge +
+      "</li>"
+    );
+  }
+
   function renderPublications(pubs, container) {
     if (!container) return;
     if (!pubs || !pubs.length) {
@@ -226,45 +270,40 @@
       return;
     }
 
-    container.innerHTML =
-      '<ul class="pub-list">' +
-      pubs
-        .map(function (p) {
-          const ph = p.isPlaceholder || isPh(p.title);
-          const itemClass = ph ? "pub-item pub-item--placeholder" : "pub-item";
-          const badge = ph
-            ? '<span class="pub-item__badge">' +
-              esc(t("publicationsPage.placeholder")) +
-              "</span>"
-            : "";
-          const doiRaw = pick(p.doi);
-          const doi =
-            doiRaw && !isPh(p.doi)
-              ? ' · <a href="https://doi.org/' +
-                esc(doiRaw) +
-                '" rel="noopener">DOI</a>'
-              : "";
-          const authors = pick(p.authors);
-          const venue = pick(p.venue);
-          const year = pick(p.year);
-          const meta = [authors, venue, year].filter(Boolean).join(" · ");
-          return (
-            '<li class="' +
-            itemClass +
-            '">' +
-            '<h3 class="pub-item__title">' +
-            esc(pick(p.title)) +
-            "</h3>" +
-            '<p class="pub-item__meta">' +
-            esc(meta) +
-            doi +
-            "</p>" +
-            badge +
-            "</li>"
-          );
-        })
-        .join("") +
-      "</ul>";
+    const groups = {};
+    const order = [];
+    pubs.forEach(function (p) {
+      const year = pick(p.year) || "";
+      if (!groups[year]) {
+        groups[year] = [];
+        order.push(year);
+      }
+      groups[year].push(p);
+    });
+    order.sort(function (a, b) {
+      const na = parseInt(a, 10);
+      const nb = parseInt(b, 10);
+      if (!isNaN(na) && !isNaN(nb) && na !== nb) return nb - na;
+      return String(b).localeCompare(String(a));
+    });
+
+    container.innerHTML = order
+      .map(function (year) {
+        const heading = year
+          ? '<h2 class="people-group__title">' + esc(year) + "</h2>"
+          : "";
+        return (
+          '<section class="people-group" aria-label="' +
+          esc(year) +
+          '">' +
+          heading +
+          '<ul class="pub-list">' +
+          groups[year].map(pubItemHTML).join("") +
+          "</ul>" +
+          "</section>"
+        );
+      })
+      .join("");
   }
 
   function renderHome(data) {
