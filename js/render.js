@@ -225,14 +225,13 @@
     );
   }
 
+  function isRealPublication(p) {
+    if (!p) return false;
+    if (p.isPlaceholder) return false;
+    return !isPh(p.title) && !isPh(p.authors) && !isPh(p.venue);
+  }
+
   function pubItemHTML(p) {
-    const ph = p.isPlaceholder || isPh(p.title);
-    const itemClass = ph ? "pub-item pub-item--placeholder" : "pub-item";
-    const badge = ph
-      ? '<span class="pub-item__badge">' +
-        esc(t("publicationsPage.placeholder")) +
-        "</span>"
-      : "";
     const doiRaw = pick(p.doi);
     const doi =
       doiRaw && !isPh(p.doi)
@@ -247,9 +246,7 @@
       .filter(Boolean)
       .join(" · ");
     return (
-      '<li class="' +
-      itemClass +
-      '">' +
+      '<li class="pub-item">' +
       '<h3 class="pub-item__title">' +
       esc(pick(p.title)) +
       "</h3>" +
@@ -257,14 +254,14 @@
       metaHtml +
       doi +
       "</p>" +
-      badge +
       "</li>"
     );
   }
 
   function renderPublications(pubs, container) {
     if (!container) return;
-    if (!pubs || !pubs.length) {
+    const real = (pubs || []).filter(isRealPublication);
+    if (!real.length) {
       container.innerHTML =
         '<p class="status-msg">' + esc(t("publicationsPage.empty")) + "</p>";
       return;
@@ -272,7 +269,7 @@
 
     const groups = {};
     const order = [];
-    pubs.forEach(function (p) {
+    real.forEach(function (p) {
       const year = pick(p.year) || "";
       if (!groups[year]) {
         groups[year] = [];

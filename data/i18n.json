@@ -381,8 +381,8 @@
       "zh": "研究成果"
     },
     "lede": {
-      "en": "Selected publications will be listed here. Placeholder rows illustrate the layout — replace them in data/publications.json. No invented titles or citations are included.",
-      "zh": "代表性成果将在此列出。占位条目仅用于展示版式，请在 data/publications.json 中替换为正式文献，请勿编造题名或引文。"
+      "en": "Peer-reviewed journal articles from FAN Lab members, grouped by year.",
+      "zh": "实验室成员发表的同行评议期刊论文，按年份排列。"
     },
     "empty": {
       "en": "No publications listed yet. Add entries in data/publications.json.",

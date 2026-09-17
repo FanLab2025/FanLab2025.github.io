@@ -41,11 +41,11 @@
       <header class="page-intro">
         <span class="section__eyebrow" data-i18n="publicationsPage.eyebrow">Scholarship</span>
         <h1 data-i18n="publicationsPage.title">Publications</h1>
-        <p data-i18n="publicationsPage.lede">Selected publications will be listed here. Placeholder rows illustrate the layout — replace them in data/publications.json. No invented titles or citations are included.</p>
+        <p data-i18n="publicationsPage.lede">Peer-reviewed journal articles from FAN Lab members, grouped by year.</p>
       </header>
 
       <div id="pub-list" aria-live="polite">
-        <p class="status-msg" data-i18n="publicationsPage.loading">Loading publications…</p>
+        <p data-i18n="publicationsPage.loading">Loading publications…</p>
       </div>
     </div>
   </main>
@@ -62,14 +62,14 @@
         LabRender.renderPublications(pubs, document.getElementById("pub-list"));
       }
       document.addEventListener("DOMContentLoaded", function () {
-        LabSite.loadSite()
-          .then(function () {
-            return LabSite.fetchJSON(LabSite.DATA_BASE + "publications.json");
-          })
+        var siteReady = LabSite.loadSite();
+        var pubsReady = LabSite.fetchJSON(LabSite.DATA_BASE + "publications.json");
+        pubsReady
           .then(function (data) {
-            pubs = data.publications || [];
-            draw();
+            pubs = (data && data.publications) || [];
+            return siteReady.catch(function () {});
           })
+          .then(draw)
           .catch(function (err) {
             console.error(err);
             var el = document.getElementById("pub-list");
